@@ -1,0 +1,142 @@
+[Intro Music]
+---
+Title: Freedom Tech Wrap - Episode 12
+---
+
+### Intro
+- What's up everybody? For the week ending March 23, my name is Marks and this is Freeedom Tech Wrap.
+- Freedom Tech Wrap is a weekly source for news and project updates in the freedom and independent technology space. 
+- We live in a hightly connected world. Freedom Tech lets you decide how you want to connect and where you want your data to live. 
+- Freedom Tech Wrap is an independent show, if you want to support what we're doing, you can send us value through your podcasting 2.0 app. 
+- Your support and feedback are greatly appreciated. 
+
+### Boosts
+- Thanks to everyone who streamed sats, and shoutout to our top boosters:
+  - [🏆 TOP BOOSTER] @shaundunn206 (5,000 sats) "Great to meet at The Takeover. Like the format of your show. Will go back and listen to some more episodes for sure (salute emoji)"
+  - @justlistenin (1,776 sats) "boost! thanks for all you do."
+  - @joelw (333 sats) 
+  - @username404 (100 sats) "great show! freaking super trolls lol wow. 
+
+### News
+- Elon Musk Building Worlds Most Advanced Spy Satellite Swarm Network for US Gov [Reuters](https://www.reuters.com/technology/space/musks-spacex-is-building-spy-satellite-network-us-intelligence-agency-sources-2024-03-16)
+  - Elon Musk's SpaceX is developing a network of advanced spy satellites under a secretive contract with a U.S. intelligence agency.
+  - The project involves SpaceX's Starshield business unit and has been valued at around $1.8 billion.
+  - This collaboration highlights growing connections between SpaceX and national security organizations.  - If successful, the sources said the program would significantly advance the ability of the U.S. government and military to quickly spot potential targets almost anywhere on the globe.
+- Roman Sterlingov Found Guilty on Four Counts, Court Finds Chainalysis 'Reliable' [Bloomberg](https://www.bloomberg.com/news/articles/2024-03-12/crypto-mixer-convicted-of-money-laundering-on-bitcoin-fog)
+  - Roman Sterlingov found guilty on four counts related to money laundering and failure to register a money transmitting service.
+  - Defense claims lack of evidence connecting Sterlingov to Bitcoin Fog operations and questions the reliability of Chainalysis.
+  - Government argues that Sterlingov operated Bitcoin Fog and used a secretive process despite having an identifiable account linked to him.
+  - Appeal expected by the defense due to concerns over the case's evidence and reliance on Chainalysis.- Apple Chip Flaw Lets Hackers Steal Encryption Keys
+ - Apple Chip Flaw Lets Hackers Steal Encryption Keys [Zero Day](https://www.zetter-zeroday.com/apple-chips/)
+  - A serious security vulnerability affecting Apple's M-series chips allows attackers to steal secret keys from Mac and iPad devices.
+  - The issue occurs when systems perform cryptographic functions and affects M1, M2, and M3 chips used since late 2020.
+  - Attackers could exploit the vulnerability to steal cryptographic keys stored on devices or secure email communication and cloud accounts.
+  - Users cannot address the issue themselves, and the fix lies with cryptographic application developers implementing mitigations and issuing updates to their applications.
+
+### Events 
+  - Sovereign Engineering Cohort #02 [Website] (https://sovereignengineering.typeform.com/SEC02?typeform-source=primal.net)
+  - May 6 - June 28, 2024 | Madeira
+
+
+### Grants 
+- HUMAN RIGHTS FOUNDATION GRANTS $500,000 TO 14 BITCOIN PROJECTS WORLDWIDE [Bitcoin Magazine](https://bitcoinmagazine.com/business/human-rights-foundation-grants-500000-to-14-bitcoin-projects-worldwide)
+ - USD E-Cash leveraging the Cashu protocol for a secure USD-based Chaumian e-cash system that respects your privacy. Funding will support the full development of this project."
+ - BTCPay Server provides free open source software for organizations that rely on Bitcoin, it is a critical tool for nonprofits operating in challenging environments. Funding will support enhancing the platform's user experience and extend its capabilities."
+ - BO฿ Space for its Builders Residency Program in Thailand. Funding will help launch a new cohort, to be dedicated to identifying weak spots in Bitcoin’s decentralization, and making those into strengths."
+ - Yibaochina.com a non-profit that advocates for democracy and human rights within the Chinese-speaking world. Funding will enable translating key Bitcoin educational materials into Chinese and promoting financial freedom inside the world’s biggest Communist country."
+ - Bitcoin Innovation Hub  in Uganda, offers a range of vocational training and financial literacy to women and men, centered around using and earning Bitcoin. Funding will support the addition of classes such as carpentry, baking, and valuable digital skills."
+ - BITCOIN DADA  is on a mission to empower African women with Bitcoin knowledge. Funds will support expansion across Africa, the creation of multilingual educational resources, and promote women-led businesses adopting Bitcoin."    
+ - The Bitcoin Design Foundation contributes essential user research, aiding Bitcoin wallets and companies in enhancing UX to guarantee Bitcoin's accessibility for all."
+ - Bitcoin Op-Tech is a vital resource for the Bitcoin developer community, offering insights into the most important Bitcoin technical conversations. Funds will be allocated towards operational expenses and growth strategies."
+ - Damus Android the first NOSTR client on iOS, is expanding to Android! Funding enables this critical initiative which makes this open source client available to millions of new users in authoritarian countries and the developing world."
+ - Bitcoin Core Developer Pablo Martin contributions help maintain Bitcoin as a secure digital currency, pivotal for activists and individuals in high-risk environments. HRF is proud to support Pablo!"
+ - LNbits aims to decentralize custodianship and provides users with a robust suite of Bitcoin tools they can run for themselves. Funding will support the core contributors’ salaries, bounties, and educational outreach efforts through workshops and video tutorials."
+ - Bitcoin Policy Summit  is a critical platform for discussing how Bitcoin can play a role in protecting human rights. Funding will support event logistics, speaker travel, and attendance by human rights advocates."
+ - "Video series "Bitcoin for Billions" is making Bitcoin accessible to millions in India, in a variety of local languages. Funding will be used for research, content creation, translation, and promotion."
+ - Scalar School is nurturing a new wave of Bitcoin and Lightning developers across South America. The grant will go towards teachers’ salaries, training workshops, and university outreach."
+- OpenSats Issues Long-Term Support Grant to Bruno Garcia [Opensats] (https://opensats.org/blog/bruno-garcia-receives-lts-grant)
+ - Bruno Garcia, a Brazilian developer, receives long-term support from an organization due to his significant contributions to Bitcoin Core.
+ - Garcia began contributing to Bitcoin Core in 2021 after being inspired by Brazil's economic crisis in the '90s.
+ - His work includes fixing bugs, implementing new features, and enhancing the Bitcoin network's resilience.
+ - He created bitcoinfuzz, a crucial tool for identifying issues within Bitcoin libraries and implementations.
+ - Additionally, Garcia works on ASMap, which aims to strengthen the Bitcoin network by promoting diverse node connections.
+ - Beyond technical contributions, Garcia mentors aspiring Bitcoin developers through initiatives like the Summer of Bitcoin.
+ - Funding from the grant will enable Garcia to continue his work while maintaining his focus on the long term.
+
+
+### Software Releases & Project Updates
+- Samourai Launches Stage 1 of Whirlpool Decentralization [Twitter Announcement] (https://twitter.com/SamouraiWallet/status/1770560344865267954)
+ - Samourai has launched the initial phase of decentralizing its Whirlpool coinjoin service.
+ - Updates were rolled out for Samourai Wallet, Whirlpool GUI/CLI, and Dojo, enabling decentralized Whirlpool usage.
+ - Communication between Whirlpool clients and coordinators is now facilitated via the Soroban network, ensuring continuity even when servers go offline.
+ - Users are encouraged to update their software to take advantage of these improvements.
+ - Further stages involve incorporating multiple coordinators for enhanced decentralization.
+ - In the future, users may operate their own Soroban nodes to contribute to the system's robustness.
+ - More details about the updated services will be provided in upcoming guides and announcements. - 
+- RoboSats v0.6.0-alpha: The Federation Layer [Github](https://github.com/RoboSats/robosats/releases/tag/v0.6.0-alpha)
+ - RoboSats v0.6.0-alpha introduces the Federation Layer, which allows multiple RoboSats instances to function as a single entity through a unified client application.
+ - This feature improves the platform's resilience and user experience while maintaining transparency and security.
+ - Decentralization is achieved through the use of independent coordinators hosting orders.
+ - A new avatar generator creates unique identities within the client app, improving speed and appearance.
+ - Bug fixes and performance enhancements have been implemented throughout the application.
+- (New Release) Stratum V2 Reference Implementation (SRI) v1.0.0 [Twitter Announcement](https://twitter.com/StratumV2/status/1770937873111331309) 
+ - Aims to improve efficiency, security, flexibility, and decentralization in bitcoin mining.
+ - Fully open-source and community-driven: Independent of any single entity and aims to be fully compatible with Stratum V2 Specification.
+ - Enhanced features include: Connectivity to SV2 Pools, optional local job declaration client usage, and patched Bitcoin Core Node for creating custom block templates.
+ - Code refactoring introduces the ability for nodes and JDC to be run by independent third parties, promoting transparency and accountability among pool operators.
+ - Newly added pool fallback functionality helps ensure miners have multiple options when connecting to pools, reducing reliance on individual pools and encouraging competition.
+ - The project welcomes contributions from developers and encourages individuals and corporations to support its development and maintenance.
+- UmbrelOS v1.0: New UI, Architectural Overhaul, Search & More [Github] (https://github.com/getumbrel/umbrel/releases/tag/v1.0.0)
+ - Available for Raspberry Pi 4, Pi 5, and Umbrel Home devices.
+ - Linux users can expect an update in April 2024.
+ - New UI: Visually appealing, easy to navigate, and customizable with widgets.
+ - Search feature: Instantly locate system settings, apps, or initiate actions using a keyboard shortcut.
+ - Quick Actions: Interact with apps and system settings quickly through right-click shortcuts.
+ - Architectural overhaul: Improves stability, speed, and simplifies the overall experience.
+ - Live Usage: Monitor real-time device performance metrics such as storage, memory, and CPU usage.
+ - Multilingual support: Choose from eight different system languages.
+- (New Release) Bitcoin Mints [Nostr Announcement] (https://primal.net/e/note1hxq7ey2hpmqxzwtlua48kdg97huukgrckn8p0n9ht7pppaxc2daqvu7c5a)
+ - Launch of BitcoinMints.com: First platform listing and reviewing Cashu mints, utilizing Nostr as its discovery and identity layer.
+ - Enables MakePrisms.com users to send millions of bitcoin transactions with a single click.
+ - Utilizes NIP-87 to publish and review mints, providing a decentralized solution for listing and evaluating Cashu mints.
+- Strike Black [Website] (https://strike.me/black/)
+ -Strike BLACK offers comprehensive tools for integrating Bitcoin services into apps.
+ - Services include buying, selling, and holding bitcoin; sending and receiving payments via Bitcoin or Lightning; connecting cash payment methods; making cash payouts to bank accounts; onboarding through KYC flows; and utilizing OAuth for authentication, permissions, and access controls.
+ - Strike BLACK provides flexibility and customization options, allowing users to choose which services to implement and how to deliver them to end-users.
+ - Users can integrate Strike BLACK's services either programmatically via the Strike API or through the in-app Strike widget.
+ - By offering a wide range of Bitcoin-related functionalities, Strike BLACK aims to provide a complete solution for developers looking to incorporate Bitcoin features into their applications.
+- (New Release) Open Agents:  https://openagents.com/launch
+ -Launch of OpenAgents, an AI agent swarm capable of continuous improvement through crowdsourcing and Bitcoin incentives.
+ - Users can access the service through a simple chatbox on the website.
+ - Currently, OpenAgents can perform basic tasks such as general conversations, introducing itself, and providing information on stocks and Bitcoin prices.
+ - Developers can contribute upgrades to the agent swarm and receive Bitcoin rewards based on usage of their contributions.
+ - A $1 million bounty has been allocated for developers creating the first plugins.
+ - OpenAgents aims to provide a fully open alternative to existing AI platforms.
+ - Key breakthroughs include building agents from reusable components, enabling them to hold Bitcoin balances, and developing a meta-agent structure for infinite extension and upgradeability.
+ - User feedback is sought to guide future development efforts.
+- Stacker News: open source contribution awards
+ - Introducing sndev: A tool allowing users to run a full Stack Exchange Network (SN) developer environment locally in one command.
+ - Developed due to struggles faced by newcomers setting up contributions to SN's open-source project and suggestions from community members.
+ - Features include starting a local SN environment, logging in to local accounts, funding accounts, managing databases, and more.
+ - Continuously being improved and updated; developers may use it exclusively for development purposes.
+ - Contribution awards have been implemented, encouraging further involvement in the project.
+
+
+### Outro 
+- All right that's it for news and project updates this week. This is Freedom Tech Wrap.
+- If you find this weekly source uselful, please share it with your people.
+- You can also support us through value for value in your podcast app or on Nostr. 
+- If you have any feedback for us, send it your way on nostr to marks@nostrplebs.com. 
+
+
+### Song of the Week
+- To close it out, we have the song of the week, where your sats directly support that artist, so stick around and boost.
+- For the rest of you, thanks for listening to Freedom Tech Wrap, and remember to live independent. Later. 
+- (Wavlake Music)
+
+
+Ideas 
+- Geyser x Nostr promotion x Fountain Clips
+- Stacker News Territory (Crowdsource update info 500 to post 1k sats if good 1.5k if added to final list)
+- Gitworkshop.dev
+- Setting up a project tracker
