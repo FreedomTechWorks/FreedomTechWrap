@@ -105,7 +105,7 @@ Title: Freedom Tech Wrap - Episode 12
  - Strike BLACK provides flexibility and customization options, allowing users to choose which services to implement and how to deliver them to end-users.
  - Users can integrate Strike BLACK's services either programmatically via the Strike API or through the in-app Strike widget.
  - By offering a wide range of Bitcoin-related functionalities, Strike BLACK aims to provide a complete solution for developers looking to incorporate Bitcoin features into their applications.
-- (New Release) Open Agents:  https://openagents.com/launch
+- (New Release) Open Agents:  (https://openagents.com/launch)
  -Launch of OpenAgents, an AI agent swarm capable of continuous improvement through crowdsourcing and Bitcoin incentives.
  - Users can access the service through a simple chatbox on the website.
  - Currently, OpenAgents can perform basic tasks such as general conversations, introducing itself, and providing information on stocks and Bitcoin prices.
@@ -120,6 +120,11 @@ Title: Freedom Tech Wrap - Episode 12
  - Features include starting a local SN environment, logging in to local accounts, funding accounts, managing databases, and more.
  - Continuously being improved and updated; developers may use it exclusively for development purposes.
  - Contribution awards have been implemented, encouraging further involvement in the project.
+- Simplex v5.6: (https://simplex.chat/blog/20240323-simplex-network-privacy-non-profit-v5-6-quantum-resistant-e2e-encryption-simple-migration.html)
+  - Real privacy and stable profits through non-profit governance: The SimpleX network aims to align community and business interests by growing the network while enriching stakeholders. By leveraging access to investment resources and providing stock-based incentives beyond salaries, the network ensures long-term viability and growth.
+  - Transition to decentralized non-profit protocol governance: As the network grows and matures, its governance will transition to multiple nonprofits, ensuring continued evolution aligned with the vision of community-driven, independent, and transparent governance.
+  - Quantum resistant end-to-end encryption (BETA): Version 5.6 introduces post-quantum resistance to messaging protocols, creating security against future quantum computers. It is currently opt-in and requires separate enabling for new and existing contacts.
+  - Stability Improvements
 
 
 ### Outro 
@@ -133,10 +138,14 @@ Title: Freedom Tech Wrap - Episode 12
 - To close it out, we have the song of the week, where your sats directly support that artist, so stick around and boost.
 - For the rest of you, thanks for listening to Freedom Tech Wrap, and remember to live independent. Later. 
 - (Wavlake Music)
+ - Recommendation 
+  - Day/Night by Meraki/Toska
 
 
 Ideas 
 - Geyser x Nostr promotion x Fountain Clips
-- Stacker News Territory (Crowdsource update info 500 to post 1k sats if good 1.5k if added to final list)
+- SN Territory (Generate engagement/Crowdsource updates)
 - Gitworkshop.dev
-- Setting up a project tracker
+- Project Tracker
+- Other Freedom Tech updates (3d Printing, AI, Mesh Networks/Nix)
+- Script Format
