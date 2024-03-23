@@ -1,0 +1,466 @@
+---
+title: Freedom Tech Wrap Project Tracker
+---
+
+### Bitcoin Core
+- [Bitcoin](https://github.com/bitcoin/bitcoin/releases/) [v26.0] 
+- [Bitcoin Hardware Wallet Interface (HWI)](https://github.com/bitcoin-core/HWI/releases/) [v2.4.0] 
+
+### Coinkite Products
+- COLDCARD Firmware [[Website](https://coldcard.com/docs/upgrade) / [Github](https://github.com/Coldcard/firmware/blob/master/releases/ChangeLog.md) [v5.2.0]] 
+- COLDCARD Edge Firmware [[Github](https://github.com/Coldcard/firmware/blob/edge/releases/EdgeChangeLog.md) [v6.2.1X]] 
+- [SATSCHIP](https://satschip.com/)
+- [SATSCARD](https://SATSCARD.com/)
+- [TAPSIGNER](https://TAPSIGNER.com/)
+- [BLOCKCLOCK](https://store.coinkite.com/store/blockclock)
+- [BLOCKCLOCK MINI](https://blockclockmini.com/firmware/)
+
+### Signing Devices:
+- Ledger
+  - [Website](https://www.ledger.com/)
+  - [Firmware](https://support.ledger.com/hc/en-us/articles/7103926130845-Latest-Firmware-updates-for-Ledger-Nano-S-X-and-S-plus)
+    - [Nano X](https://support.ledger.com/hc/en-us/articles/360014980580-Ledger-Nano-X-firmware-release-notes?docs=true) [v2.2.3]
+    - [Nano S](https://support.ledger.com/hc/en-us/articles/360010446000-Ledger-Nano-S-firmware-release-notes?docs=true) [2.1.0]
+- Trezor
+  - [Website](https://github.com/trezor/trezor-suite)
+  - [Github](https://github.com/trezor/trezor-suite/releases/) [v23.12.3] 
+- Keystone [[Website](https://support.keyst.one/changelog/keystone-firmware-btc-only)] [vB-3.4]
+- Seedsigner
+  - [Website](https://seedsigner.com/)
+  - [Github](https://github.com/SeedSigner/seedsigner/releases/) [v0.7.0] 
+- Specter DIY [[Github](https://github.com/cryptoadvance/specter-diy/releases) [v1.8.0]] 
+- Krux [[Github](https://github.com/selfcustody/krux/releases) [v23.09.1]] 
+- Block [[Website](https://wallet.build/)]
+- frostsnap [[Github](https://github.com/frostsnap/frostsnap)] 
+
+### Desktop Wallets:
+- [Fully Noded](https://fullynoded.app/)
+  - [Github](https://github.com/Fonta1n3/FullyNoded/releases) [v0.3.1] 
+  - [iOS](https://apps.apple.com/us/app/fully-noded/id1436425586) [v0.6.8]
+- Electrum
+  - [Github](https://github.com/spesmilo/electrum/blob/master/RELEASE-NOTES) [v4.5.2] 
+  - [Release Notes](https://github.com/spesmilo/electrum/blob/master/RELEASE-NOTES) [v4.5.2]
+- Electrs [[Github](https://github.com/romanz/electrs/releases) [v0.10.3]] 
+- Specter Desktop [[Github](https://github.com/cryptoadvance/specter-desktop/releases) [v2.0.2]] 
+- Sparrow [[Github](https://github.com/sparrowwallet/sparrow/releases/) [v1.8.2]]  
+- Wasabi [[Github](https://github.com/zkSNACKs/WalletWasabi/releases) [v2.0.5]]  
+- Mecury Wallet [[Github](https://github.com/layer2tech/mercury-wallet) [v0.10]]  
+- Liana [[Github](https://github.com/revault/liana/releases/) [v4.0]]  
+- mycitadel [[Github](https://github.com/mycitadel/mycitadel-desktop/releases) [v1.5]]  
+- Brainbow [[Github](https://github.com/Bitcoin-Brainbow/Brainbow/releases) [v0.1.149]]  
+
+### Servers
+- [Electrum Personal Server](https://github.com/chris-belcher/electrum-personal-server) [v0.2.4] 
+- [Floresta](https://github.com/Davidson-Souza/Floresta/releases) [v0.5.1] 
+
+### Mobile Wallets
+- [BlueWallet](https://bluewallet.io/)
+  - [Github](https://github.com/BlueWallet/BlueWallet/releases) [v6.5.3] 
+  - [iOS](https://apps.apple.com/app/bluewallet-bitcoin-wallet/id1376878040) [v6.4.10]
+  - [Android](https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet)
+- [Blockstream Green](https://blockstream.com/green/)
+  - [Desktop](https://github.com/Blockstream/green_qt) [v1.2.8] 
+  - [iOS](https://github.com/Blockstream/green_ios) [v4.0.22] <!-- AT -->
+  - [Android](https://github.com/Blockstream/green_android) [v4.0.24] <!-- AT -->
+- [Nunchuk](https://nunchuk.io/)
+  - [iOS](https://apps.apple.com/us/app/nunchuk-bitcoin-wallet/id1563190073) [v1.9.37]
+  - [Android](https://github.com/nunchuk-io/nunchuk-android/releases/) [v1.9.4] <!-- AT -->
+  - [Desktop](https://github.com/nunchuk-io/nunchuk-desktop/releases) [v1.9.27] <!-- AT -->
+- [Zeus](https://zeusln.app/)
+  - [Github](https://github.com/ZeusLN/zeus/releases) [v0.8.1] <!-- AT -->
+  - [iOS](https://apps.apple.com/us/app/zeus-ln/id1456038895) [v0.7.6]
+  - [Android](https://play.google.com/store/apps/details?id=app.zeusln.zeus) [v0.7.7]
+- [Muun](https://muun.com/)
+  - [iOS](https://apps.apple.com/us/app/muun-wallet/id1482037683) [v2.7.12]
+  - [Android](https://play.google.com/store/apps/details?id=io.muun.apollo)
+- [Wallet of Satoshi](https://www.walletofsatoshi.com/)
+  - [iOS](https://apps.apple.com/us/app/wallet-of-satoshi/id1438599608) [v2.2.7]
+  - [Android](https://play.google.com/store/apps/details?id=com.livingroomofsatoshi.wallet&hl=en&gl=US)
+- [Breez](https://breez.technology/)
+  - [Github](https://github.com/breez/breezmobile/releases) <!-- AT -->
+  - [iOS](https://apps.apple.com/us/app/breez-lightning-client-pos/id1463604142) [1.0.24]
+  - [Android](https://play.google.com/store/apps/details?id=com.breez.client)
+  - [Github](https://github.com/breez/breezmobile/releases)
+- [Blixt](https://blixtwallet.github.io/)
+  - [Github](https://github.com/hsjoberg/blixt-wallet/releases) [v0.6.9-420] <!-- AT -->
+  - [iOS](https://testflight.apple.com/join/EXvGhRzS)
+  - [Android](https://play.google.com/store/apps/details?id=com.blixtwallet&hl=en_US&gl=US)
+- [Phoenix](https://phoenix.acinq.co/)
+  - [Android](https://github.com/ACINQ/phoenix) [v2.1.3]  <!-- AT -->
+  - [iOS](https://apps.apple.com/us/app/phoenix-wallet/id1544097028) [v2.0.7]
+- [bitnob](https://bitnob.com/)
+  - [iOS](https://apps.apple.com/ng/app/bitnob/id1513951003) [v1.168]
+  - [Android](https://play.google.com/store/apps/details?id=com.app.bitnob)
+- [Bitcoin Tribe](https://hexawallet.io/)
+  - [Github](https://github.com/bithyve/bitcointribe/releases) [v2.2.10] <!-- AT -->
+  - [iOS](https://apps.apple.com/in/app/bitcoin-wallet-hexa-2-0/id1586334138) [v2.2.7]
+  - [Android](https://play.google.com/store/apps/details?id=io.hexawallet.hexa2)
+- [Cash App](https://cash.app/)
+  - [iOS](https://apps.apple.com/us/app/cash-app/id711923939) [v4.31]
+- [Keeper](https://www.bitcoinkeeper.app/)
+  - [iOS](https://apps.apple.com/us/app/bitcoin-keeper/id1545535925) [v1.1.10]
+  - [Android](https://play.google.com/store/apps/details?id=io.hexawallet.bitcoinkeeper)
+- [Pouch.ch](https://pouch.ph/)
+  - [iOS](https://apps.apple.com/us/app/pouch-borderless-payments/id1584404678) [1.0.19]
+  - [Android](https://play.google.com/store/apps/details?id=pouch.ph)
+- [Simple Bitcoin Wallet](https://sbw.app/)
+  - [Github](https://github.com/akumaigorodski/wallet/releases) [v2.5.8] <!-- AT -->
+- [Osmo](https://www.osmowallet.com/tarifas)
+  - [iOS](https://apps.apple.com/app/osmo-wallet/id1610776134) [v2.5.10]
+  - [Android](https://play.google.com/store/apps/details?id=com.osmo.smt)
+- Plasma - Core Lightning Wallet
+  - [Github](https://github.com/Fonta1n3/Plasma)
+  - [iOS](https://apps.apple.com/us/app/plasma-core-lightning-wallet/id6468914352)
+
+### Bitcoin Testnet
+- [padawan-wallet](https://github.com/thunderbiscuit/padawan-wallet) [v0.12.0] <!-- AT -->
+
+### Lightning Implementations
+- [Eclair](https://github.com/ACINQ/eclair/releases) [v0.9.0] <!-- AT -->
+- [lnd](https://github.com/lightningnetwork/lnd/releases/) [v0.17.4-beta] <!-- AT -->
+- Core Lightning
+  - [Github](https://github.com/ElementsProject/lightning/releases/) [v23.11.2] <!-- AT -->
+- LDK
+  - [Github](https://github.com/lightningdevkit/rust-lightning/releases) [v0.0.120] <!-- AT -->
+  - [Twitter](https://twitter.com/lightningdevkit)
+
+### Lightning Tools and Projects
+- Alby: Browser Bitcoin Lightning App
+  - [Github](https://github.com/getAlby/lightning-browser-extension/releases) [v3.6.0] <!-- AT -->
+  - [Blog](https://blog.getalby.com/)
+- LNbits
+  - [Github](https://github.com/lnbits/lnbits)[v0.12.1] <!-- AT -->
+- ZEBEDEE
+  - [iOS](https://apps.apple.com/us/app/zebedee-wallet/id1484394401) [v3.63.7]
+  - [Android](https://play.google.com/store/apps/details?id=io.zebedee.wallet)
+  - [Chrome](https://chrome.google.com/webstore/detail/zbd-browser-extension-bit/kpjdchaapjheajadlaakiiigcbhoppda) [v0.3.18]
+  - [Mozilla](https://addons.mozilla.org/en-US/firefox/addon/zbd/) [v0.3.18]
+- [Stacker News](https://stacker.news)
+  - [Github](https://github.com/stackernews/stacker.news) [v1.2.8]
+  - [Android](https://github.com/felipebueno/stacker_news) [v1.2.4] <!-- AT -->
+- [Mutiny Wallet](https://mutinywallet.com/)
+- [Github](https://github.com/MutinyWallet/mutiny-web)[v0.5.9] <!-- AT -->
+  - [Blog](https://blog.mutinywallet.com/)
+- [Mutiny Node](https://github.com/MutinyWallet/mutiny-node) [v0.5.9] <!-- AT -->
+- [Lightning Terminal](https://github.com/lightninglabs/lightning-terminal) [v0.12.3-alpha] <!-- AT -->
+- [mercury-node](https://github.com/layer2tech/mercury-node) [v2.0.0]
+- [Polar](https://github.com/jamaljsr/polar) [v2.1.0] <!-- AT -->
+- [Lightning Loop](https://github.com/lightninglabs/loop) [v0.27.1-beta] <!-- AT -->
+- Nayuta Wallet
+  - [Github](https://github.com/nayutaco/NayutaWalletApp/releases) <!-- AT -->
+  - [iOS](https://github.com/nayutaco/Support/wiki/Nayuta-Wallet-2022-Release-Note-iOS) [v1.3.0]
+  - [Android](https://github.com/nayutaco/Support/wiki/Nayuta-Wallet-2022-Release-Note-Android) [v0.5.0]
+- [Spark wallet](https://sparkwallet.io/)
+  - [iOS](https://apps.apple.com/us/app/sparkwallet-bitcoin-lightning/id1606418661) [v3.2]
+  - [Android](https://play.google.com/store/apps/details)
+- [LNp2pBot](https://github.com/lnp2pBot/bot) [v0.9.13] <!-- AT -->
+- [Bijli](https://github.com/aniketambore/bijli_ln_wallet)
+
+#### Lightning Testing
+- [lnprototest](https://github.com/rustyrussell/lnprototest): A Testsuite for the Lightning Network Protocol [v0.0.4] <!-- AT -->
+- [sim-ln](https://github.com/bit#coin-dev-project/sim-ln)
+- [scaling-lightning](https://github.com/scaling-lightning/scaling-lightning) <!-- AT -->
+
+### Payments
+- BTCPay Server [[Github](https://github.com/btcpayserver/btcpayserver/releases) [v1.12.5]] <!-- AT -->
+- Satimoto: Electric vehicle charging with Bitcoin
+  - [Website](https://satimoto.com/)
+  - [iOS](https://apps.apple.com/app/satimoto/id6444064066) [0.476]
+  - [Github](https://github.com/satimoto/satimoto/releases) [v0.4.9] <!-- AT -->
+- [Swiss Bitcoin Pay](https://swiss-bitcoin-pay.ch/)
+  - [Github](https://github.com/SwissBitcoinPay/app) [v2.0.6] <!-- AT -->
+  - [iOS](https://apps.apple.com/app/swiss-bitcoin-pay/id6444370155) [v1.9.5]
+  - [Android](https://play.google.com/store/apps/details?id=ch.swissbitcoinpay.checkout)
+- [Speed Bitcoin POS](https://www.tryspeed.com/blog/)
+  - [Android](https://play.google.com/store/apps/details?id=com.app.speedpos)
+- [lipa](https://lipa.swiss/)
+    - Non-custodial mobile Lightning wallet for individuals: [iOS](https://testflight.apple.com/join/J4SmDW5N)
+    - Bitcoin and Lightning merchant payments for businesses: [iOS](https://apps.apple.com/us/app/lipa-wallet-for-business/id1644313293)/[Android](https://play.google.com/store/apps/details?id=com.getlipa.business)
+- Voltpay
+  - [Website](https://voltpay.app/)
+  - [iOS](https://apps.apple.com/us/app/voltpay/id1615874978)
+  - [Android](https://play.google.com/store/apps/details?id=com.core.voltpay&pli=1)
+- [ldk-node](https://github.com/lightningdevkit/ldk-node) [v0.2.1] <!-- AT -->
+
+### Dev Kits/Primatives/Protocols
+- [Bitcoin Dev Kit (BDK)](https://github.com/bitcoindevkit/bdk) [v1.0.0-alpha.2] <!-- AT -->
+- [Breez SDK](https://github.com/breez/breez-sdk) [v0.2.12] <!-- AT -->
+- [libwally-core](https://github.com/ElementsProject/libwally-core) [v1.2.0] <!-- AT -->
+- [libwally-swift](https://github.com/Sjors/libwally-swift/releases/) [v0.0.8] <!-- AT -->
+- [Nix-Bitcoin](https://github.com/fort-nix/nix-bitcoin/releases) [v0.0.103] <!-- AT -->
+- [rgb-core](https://github.com/RGB-WG/rgb/releases) [v0.10.0] <!-- AT -->
+- [Descriptor wallet library](https://github.com/BP-WG/descriptor-wallet/releases) [v0.9.2] <!-- AT -->
+- [alby-js-sdk](https://github.com/getAlby/alby-js-sdk) [v3.3.0] <!-- AT -->
+- [taproot-assets](https://github.com/lightninglabs/taproot-assets) [v0.3.3] <!-- AT -->
+- [libsecp256k1](https://github.com/bitcoin-core/secp256k1/releases) [v0.4.0] <!-- AT -->
+- [ckcc-protocol 1.4.0](https://pypi.org/project/ckcc-protocol/#history) [v1.4.0] <!-- AT -->
+- [BIP-329 Python Library](https://github.com/Labelbase/python-bip329) [v0.0.3] <!-- AT -->
+- [Smart Vaults](https://github.com/smartvaults/smartvaults) [v0.3.0] <!-- AT -->
+- [coinselect](https://github.com/bitcoinerlab/coinselect) [v1.2.0] <!-- AT -->
+- Bitcoin Connect
+  - [Github](https://github.com/getAlby/bitcoin-connect) [v3.2.0-alpha] <!-- AT -->
+  - [Website](https://bitcoin-connect.com/)
+
+### Nodes
+- [Umbrel](https://github.com/getumbrel/umbrel) [v0.5.4] <!-- AT -->
+- [RaspPiBlitz](https://github.com/rootzoll/raspiblitz) [v1.10.0] <!-- AT -->
+- [startOS](https://github.com/Start9Labs/embassy-os) [v3.5.1] <!-- AT -->
+- MyNode
+  - [Github](https://github.com/mynodebtc/mynode/tags) [v0.3.21] <!-- AT -->
+  - [Changelog](https://github.com/mynodebtc/mynode/blob/master/CHANGELOG)
+- [Parmanode](https://github.com/ArmanTheParman/Parmanode/releases) [v3.3.5]
+- [Citadel](https://gitlab.com/nirvati/citadel/lts/core) [v0.3.0] <!-- AT -->
+
+### Node management
+- [Torq](https://github.com/lncapital/torq) [v1.5.1] <!-- AT -->
+- [Thunderhub](https://github.com/apotdevin/thunderhub) [v0.13.30] <!-- AT -->
+- [Clams Remote](https://github.com/clams-tech/browser-app) [v2.1.0] <!-- AT -->
+- [Bolt.Observer](https://bolt.observer/) [beta release]
+- [coffee](https://github.com/coffee-tools/coffee) [v0.0.1-alpha.1] <!-- AT -->
+- [BitBanana](https://github.com/michaelWuensch/BitBanana) [v0.7.3] <!-- AT -->
+- [oak-node](https://oak-node.net/doc/ckout/CHANGELOG.md) (LND node management) [v0.3.8]
+- [validating-lightning-signer](https://gitlab.com/lightning-signer/validating-lightning-signer/-/releases) [v0.10.0 - Beta 2] <!-- AT -->
+- Lightning Orb [[Website](https://lnorb.com/) / [Github](https://github.com/lightningorb/orb/releases)] <!-- AT -->
+- [lndg](https://github.com/cryptosharks131/lndg/releases) [v1.8.0] <!-- AT -->
+- [nodeyez](https://github.com/vicariousdrama/nodeyez/releases) [v23.10] <!-- AT -->
+- [CLBOSS](https://github.com/ZmnSCPxj/clboss/releases) [v0.13] <!-- AT -->
+- [Ride the Lightning](https://github.com/Ride-The-Lightning/RTL) [v0.15.0-beta-to-CLNRest] <!-- AT -->
+- [mutiny-startos](https://github.com/Start9Labs/mutiny-startos/) [v0.4.39] <!-- AT -->
+
+### Privacy Tools
+- [JoinMarket](https://github.com/JoinMarket-Org/joinmarket-clientserver/releases) [v0.9.10] <!-- AT -->
+- [Joininbox](https://github.com/openoms/joininbox/releases) [v0.8.1] <!-- AT -->
+- [Jam](https://jamapp.org/): A modern interface for JoinMarket
+  - [Github](https://github.com/joinmarket-webui/jam/) [v0.1.6] <!-- AT -->
+- [rust-payjoin](https://github.com/payjoin/rust-payjoin) [v0.12.0] <!-- AT -->
+
+### Block Explorers:
+- The Mempool Open Source Project™
+  - [Website](https://mempool.space/)
+  - [Github](https://github.com/mempool/mempool) [v2.5.0] <!-- AT -->
+- [btc-rpc-explorer](https://github.com/janoside/btc-rpc-explorer) [v3.4.0] <!-- AT -->
+- [Blockstream Satellite](https://github.com/Blockstream/satellite) [v2.4.6] <!-- AT -->
+
+### Exchanges
+- [Robosats](https://github.com/reckless-satoshi/robosats/releases) - [v0.5.4-alpha] <!-- AT -->
+- [BISQ](https://github.com/bisq-network/bisq/releases) [v1.9.14] <!-- AT -->
+- 10101: Self-custodial on-chain and off-chain wallet with trading
+  - [Github](https://github.com/get10101/10101) [v1.8.8] <!-- AT -->
+  - [Twitter](https://twitter.com/get10101)
+- [Peach](https://peachbitcoin.com/blog/)
+  - [Github](https://github.com/Peach2Peach/peach-app)
+  - [iOS](https://testflight.apple.com/join/wfSPFEWG)
+  - [Android](https://play.google.com/store/apps/details?id=com.peachbitcoin.peach.mainnet) [v0.4]
+  - [Twitter](https://twitter.com/peachbitcoin)
+- [NOAH](https://noah.com/)
+- [Agoradesk](https://agoradesk.com/)
+  - [Github](https://github.com/AgoraDesk-LocalMonero/agoradesk-app-foss/releases) [v1.1.20] <!-- AT -->
+- [Boltz](https://boltz.exchange/): Privacy First, Non-Custodial Bitcoin Exchange
+  - [Blog](https://blog.boltz.exchange/)
+  - [Web App](https://github.com/BoltzExchange/boltz-web-app/releases) [v1.3.0] <!-- AT -->
+  - [Backend](https://github.com/BoltzExchange/boltz-backend/releases/) [v3.4.0] <!-- AT -->
+
+<!-- https://bitcoin.global/
+https://localcoinswap.com/
+https://paxful.com/
+https://hodlhodl.com/
+https://agoradesk.com/ [Github](https://github.com/AgoraDesk-LocalMonero/agoradesk-app-foss)
+https://boltz.exchange/
+-->
+
+### Federated Cash
+- [Cashu Nutshell](https://github.com/cashubtc/nutshell): Chaumian Ecash wallet and mint for Bitcoin Lightning [v0.15.0] <!-- AT -->
+- [Fedimint](https://github.com/fedimint/fedimint/releases) [v0.2.1]
+- [nuststash](https://github.com/gandlafbtc/nutstash-wallet/releases/) <!-- AT -->
+- Nutstash Browser Extension: Cashu Browser Extension
+  - [Chromium](https://github.com/SuperAtic/NutStash-Browser-Extension)
+  - [Firefox](https://github.com/SuperAtic/NutStash-Browser-Extension/tree/for-firefox)
+- [eNuts](https://github.com/cashubtc/eNuts/releases) [v0.2.0-beta] <!-- AT -->
+- [cashcrab](https://github.com/thesimplekid/cashcrab): A Cashu wallet with a flutter UI and with as much logic as possible in rust using cashu-crab with nostr integration for contacts and messaging.
+- [Minibits Wallet](https://github.com/minibits-cash/minibits_wallet/releases) [v0.1.5-beta.18] <!-- AT -->
+
+### Podcasting 2.0
+- [Fountain](https://fountainpodcasts.substack.com/)
+  - [iOS](https://apps.apple.com/gb/app/fountain-podcasts/id1576394424) [v0.1.0]
+  - [Android](https://play.google.com/store/apps/details?id=fm.fountain.apps)
+
+### Rewards
+- [The Bitcoin Company](https://thebitcoincompany.com/)
+  - [iOS](https://apps.apple.com/us/app/the-bitcoin-company/id1600995023) [v1.31]
+  - [Android](https://play.google.com/store/apps/details?id=com.tbtc_app)
+- Satsback [[Website](https://satsback.com/) / [Blog](https://satsback.com/blog)]
+- Lolli [[Website](https://www.lolli.com/) / [Blog](https://blog.lolli.com/)]
+- [Oshi](https://www.oshi.tech/)
+  - [iOS](https://apps.apple.com/be/app/oshi/id1566184362#?platform=iphone) [v1.3.4]
+  - [Android](https://play.google.com/store/apps/details?id=com.oshiapp.mobile&hl=en_US&gl=US&pli=1)
+- [Smiles Bitcoin](https://www.smilesbitcoin.com/)
+  - [iOS](https://apps.apple.com/us/app/smiles/id1492458803) [v7.8]
+  - [Android](https://play.google.com/store/apps/details?id=com.smilesbitcoin.smiles)
+- Joltz [[Website](https://joltzrewards.com/) / [Blog](https://joltzrewards.com/blog)]
+
+### Mining
+- [ESP-Miner](https://github.com/skot/ESP-Miner) [v2.0.7] <!-- AT -->
+- [NerdMiner](https://github.com/BitMaker-hub/NerdMiner_v2) <!-- AT -->
+
+### Hobbyist Projects
+- [Orange Clock](https://github.com/marc3linho/OrangeClock) <!-- AT -->
+
+### Tools & Productivity
+- [SMS4Sats](https://sms4sats.com/) [v0.3.3]
+- Zaprite [[Website](https://zaprite.com/)/[Blog](https://blog.zaprite.com/)] - Bitcoin invoicing, project management and expense tracking
+- [Wavlake](https://zine.wavlake.com/): The first-ever Lightning-powered music streaming site
+
+### Smart contracts
+- [BitMask](https://github.com/diba-io/bitmask-core/)
+  - A Bitcoin-only web wallet and browser extension for accessing decentralized web applications on the Bitcoin timechain.
+  - It is designed to support UTXO-based smart contracting protocols such as RGB, in addition to Lightning payments.
+
+### Privacy Software
+- [SimpleX Chat](https://github.com/simplex-chat/simplex-chat/releases) [v5.5.3] <!-- AT -->
+- Keet
+  - [Website](https://keet.io/)
+  - [OSX](https://apps.apple.com/us/app/keet-by-holepunch/id6443880549) [v2.1.1]
+  - [Android](https://play.google.com/store/apps/details?id=io.keet.app)
+  - [Twitter](https://twitter.com/keet_io)
+
+### Other
+- btcmap-android [[Github](https://github.com/teambtcmap/btcmap-android/releases)] [v0.6.6] <!-- AT -->
+- [Atomic.finance](https://atomic.finance/)
+  - [iOS](https://testflight.apple.com/join/AjYeBiZl)
+- [emeralize](https://github.com/nbd-wtf/emeralize) [v0.1.0] <!-- AT -->
+
+<!-- List of P2P-Trading-Platforms
+https://github.com/cointastical/P2P-Trading-Exchanges
+-->
+
+<!--
+Exchanges with support for bitcoin Lightning network ⚡ payments:
+https://cointastical.medium.com/exchanges-with-support-for-bitcoin-lightning-network-payments-739829bcb7bc
+-->
+
+<!-- ### Mailing Lists/Blogs
+- [Bitcoin Optech Newsletter](https://bitcoinops.org/)
+- [bitdevs](https://bitdevs.org/)
+- [lnmarkets](https://blog.lnmarkets.com/)
+- https://minimalist.bitbo.io/
+- [lightninglabs](https://lightninglabs.substack.com/)
+- [Jimmy Song Substack](https://substack.com/@jimmysong)
+- https://bitcoinlaunches.com/
+-->
+
+<!-- ### Lists of projects
+- [awesome-lightning-network](https://github.com/bcongdon/awesome-lightning-network)
+- [awesome-ldk](https://github.com/peakshift/awesome-ldk)
+- [Lightning Ventures](https://ltng.ventures/)
+- [Stack Sats](https://www.stacksats.how/)
+- [Liquid Dev Portal](https://liquid.net/devs)
+- [Fulgur Ventures](https://fulgur.ventures/#portfolio)
+- [Lightning Landscape](https://www.lightning-landscape.net/projects)
+- [BTCDir](https://btcdir.org/)
+- [Lightning Address Providers](https://lightningaddress.com/)
+- [Bitcoin focused companies](https://twitter.com/prayingforbtc/status/1598688326420152322/photo/1)
+- [Ten31](https://ten31.vc/home)
+- https://lightningnetwork.plus/market
+- https://fanismichalakis.fr/posts/
+-->
+
+<!-- ### Wallets
+- https://walletscrutiny.com/
+-->
+
+<!-- ## No longer tracking:
+### Desktop Wallets
+- [COLDCORE](https://github.com/jamesob/coldcore)
+
+### Lightning
+- [Blink](https://www.bbw.sv/)
+  - [Github](https://github.com/GaloyMoney/galoy-mobile/releases)
+  - [iOS](https://apps.apple.com/ng/app/bitcoin-beach-wallet/id1531383905) [v2.2.166]
+  - [Android](https://play.google.com/store/apps/details?id=com.galoyapp&hl=fr&gl=US)
+- [sphinx-key](https://github.com/stakwork/sphinx-key): A Lightning Hardware Wallet based on Validating Lightning Signer [v0.2.0]
+- [Lightning Tip Bot](https://github.com/LightningTipBot/LightningTipBot)
+- [LightningNetworkPCB](https://github.com/ccadic/LightningNetworkPCB)
+- [Vortex](https://github.com/benthecarman/ln-vortex): A tool to allow users to open lightning channels in a collaborative transaction when using lnd and Core Lightning
+- Lightning Joule: Browser Bitcoin Lightning App [[Website](https://lightningjoule.com/) / [Github](https://github.com/joule-labs/joule-extension)]
+- [LNLink](https://lnlink.app/)
+
+### Mobile Wallets
+- The Open Bitcoin Wallet [[Github](https://github.com/nbd-wtf/obw) [v0.2.1]/[Android](https://play.google.com/store/apps/details?id=wtf.nbd.obw)]
+- Boltcard Wallet [[Website](https://boltcardwallet.com/)/[Github](https://github.com/boltcard/boltcard-wallet/releases) [v0.1.4]/[iOS](https://apps.apple.com/us/app/bolt-card-wallet/id6446301845) [0.2.1]]
+- Bolt Card PoS [[iOS](https://github.com/boltcard/bolt-card-pos)/ [Github](https://github.com/boltcard/bolt-card-pos) [v0.1.2]]
+- [Etta Wallet](https://github.com/EttaWallet/EttaWallet)
+- [Samurai](https://docs.samourai.io/en/wallet/releases) [v0.99.98i]
+  - [Android](https://play.google.com/store/apps/details?id=com.samourai.wallet) [The Stealth Mode Update]
+- Samurai Sentinal [v5.0.0]
+  - [Samurai Blog](https://blog.samourai.is/)
+
+### Privacy Tools
+- [TOR Browser](https://github.com/TheTorProject/gettorbrowser) [12.0]
+- [Impervious Browser](https://github.com/imperviousai/imp-browser) [0.1.2 Alpha]
+- [Kotlin Multiplatform Tor (kmp-tor)](https://github.com/05nelsonm/kmp-tor) [v4.7.13-0-1.3.4]
+- [TunnelSats](https://github.com/tunnelsats/tunnelsats)
+- [Neutrino](https://github.com/lightninglabs/neutrino): Privacy-Preserving Bitcoin Light Client
+- [samourai-dojo](https://code.samourai.io/dojo/samourai-dojo/-/blob/master/RELEASES.md) [v1.22.0]
+- RoninDojo
+  - [Codebase](https://code.samourai.io/ronindojo/RoninDojo/-/tags) [v2.1.2]
+  - [Blog](https://blog.ronindojo.io/tag/releases/)
+- RoninUI
+  - [Codebase](https://code.samourai.io/ronindojo/ronin-ui/-/tags/) [v2.4.0]
+  - [Blog](https://blog.ronindojo.io/tag/releases/)
+- [Whirlpool](https://code.samourai.io/whirlpool/whirlpool-server/-/tags) [v0.23.36]
+
+### Block Explorers
+- [Blockstream.info](https://github.com/Blockstream/esplora) [v2.10]
+- [Supertestnet](https://github.com/supertestnet/coinjoin-explorer) - Fun, simple coinjoin explorer
+
+### Exchanges
+- [Kollider](https://pro.kollider.xyz/)
+- [LN Markets](https://lnmarkets.com/)
+
+### Payment cards
+- Boltcard [Website](https://www.boltcard.org/)/[Github](https://github.com/boltcard/boltcard/releases) [v0.3.0]
+- Boltcard NFC Programmer [[iOS](https://apps.apple.com/us/app/boltcard-nfc-programmer/id6450968873)]
+  - Quickly program a blank NFC card (NTAG424DNA) to act as your own personal Boltcard.
+  - The boltcard can be used with Lightning PoS terminals that have NFC support, or Breez wallet PoS App.
+
+### Signing devices
+- Foundation Passport [[Website](https://foundationdevices.com/)/[Github](https://github.com/Foundation-Devices/passport2/releases/)]
+- [BitBox02](https://github.com/digitalbitbox/bitbox02-firmware) [v9.13.1]
+- [Blockstream Jade](https://github.com/Blockstream/Jade/tags) [v0.1.48]
+
+### Nodes
+- [smartino](https://github.com/smartm0use/smartino): Bitcoin full node on Android
+
+#### Node management
+- [RGB Lightning Sample](https://github.com/RGB-Tools/rgb-lightning-sample)
+- [greenlight](https://github.com/Blockstream/greenlight)
+- [eclair-cli](https://github.com/ACINQ/eclair-cli)
+
+### Cryptographic Key Verification
+- [Synonym](https://synonym.to/)
+    - [Bitkit](https://bitkit.to/) Bitcoin Toolkit. Hands you the keys to your money, profile, contacts, and web accounts
+    - [Slashtags](https://synonym.to/slashtags) gives developers tools to build secure and scalable peer-to-peer applications
+    - [Blocktank](https://synonym.to/) Full-service Lightning Service Provider (LSP)
+
+### Dev Kits/Primatives/Protocols
+- [Coinkite Tap Protocol](https://pypi.org/project/coinkite-tap-protocol/#history) [v1.2.2] & [CK Tap React Native](https://github.com/coinkite/cktap-protocol-react-native)
+- [Nunchuk Tap Protocol](https://github.com/nunchuk-io/tap-protocol)
+- [Seed XOR](https://github.com/AndreasGassmann/seed-xor)
+- [Lightning BOLTs](https://github.com/lightning/bolts)
+- [Khepri](https://github.com/bitcoin-stark/khepri)
+
+### Chat
+- Sphinx Chat[[Website](https://github.com/stakwork) / [iOS](https://apps.apple.com/us/app/sphinx-chat/id1483956418)]
+- [BLIP](https://blipme.app/)
+
+### Tools & Productivity
+- [SatsCrap](https://satscrap.com/) Bitcoin P2P Marketplace
+- [Apollosats](https://heyapollo.com/): Write reviews for products and earn sats for doing it
+- LNVPN [[Website](https://lnvpn.net/) / [Github](https://github.com/LightRider5/lnvpn)]
+
+
+
+
+
+
+ -->
