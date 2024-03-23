@@ -9,18 +9,8 @@ title: Freedom Tech Wrap Project Tracker
 ### Coinkite Products
 - COLDCARD Firmware [[Website](https://coldcard.com/docs/upgrade) / [Github](https://github.com/Coldcard/firmware/blob/master/releases/ChangeLog.md) [v5.2.0]] 
 - COLDCARD Edge Firmware [[Github](https://github.com/Coldcard/firmware/blob/edge/releases/EdgeChangeLog.md) [v6.2.1X]] 
-- [SATSCHIP](https://satschip.com/)
-- [SATSCARD](https://SATSCARD.com/)
-- [TAPSIGNER](https://TAPSIGNER.com/)
-- [BLOCKCLOCK](https://store.coinkite.com/store/blockclock)
-- [BLOCKCLOCK MINI](https://blockclockmini.com/firmware/)
 
 ### Signing Devices:
-- Ledger
-  - [Website](https://www.ledger.com/)
-  - [Firmware](https://support.ledger.com/hc/en-us/articles/7103926130845-Latest-Firmware-updates-for-Ledger-Nano-S-X-and-S-plus)
-    - [Nano X](https://support.ledger.com/hc/en-us/articles/360014980580-Ledger-Nano-X-firmware-release-notes?docs=true) [v2.2.3]
-    - [Nano S](https://support.ledger.com/hc/en-us/articles/360010446000-Ledger-Nano-S-firmware-release-notes?docs=true) [2.1.0]
 - Trezor
   - [Website](https://github.com/trezor/trezor-suite)
   - [Github](https://github.com/trezor/trezor-suite/releases/) [v23.12.3] 
