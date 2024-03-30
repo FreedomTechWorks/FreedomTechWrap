@@ -46,8 +46,11 @@ Title: Freedom Tech Wrap - Episode 13
  - Funding aims to expand Neutronpay's presence in Southeast Asia and foster an inclusive digital economy through instant and low-cost payment solutions
  - Neutronpay leverages the Lightning Network to provide a compelling alternative for businesses and consumers seeking more efficient engagement with the global digital economy.
  - The company collaborates with leading businesses and custodial services to advance its mission of enhancing digital payment accessibility and efficiency worldwide.
- 
-
+- Machankura - https://www.coindesk.com/consensus-magazine/2024/03/18/machankura-20-turning-feature-phones-into-bitcoin-hardware-wallets/
+ - Machankura 2.0 turns feature phones into Bitcoin hardware wallets, enabling transactions through the Lightning Network without requiring an internet connection.
+ - The platform was developed by Kgothatso Ngako, who previously allowed Africans to transact bitcoin via feature phones for the first time.
+ - By using Machankura, individuals can access and utilize Bitcoin despite not having smartphones or reliable internet connections.
+ - The innovation aims to bring financial inclusion and empowerment to those who may otherwise be excluded from the benefits of cryptocurrency adoption.
 
 ### Articles 
 - The INFOSEC BASICS: HOW TO KEEP YOUR BITCOIN SEED PHRASE SECURE [Bitcoin Magazine](https://bitcoinmagazine.com/guides/the-infosec-basics-how-to-keep-your-bitcoin-seed-phrase-secure) 
@@ -59,25 +62,97 @@ Title: Freedom Tech Wrap - Episode 13
 - Judge Imposes Worldwide Asset Freeze on Fake Satoshi Craig Wright https://bitcoinmagazine.com/legal/judge-imposes-worldwide-asset-freeze-on-fake-satoshi-craig-wright
 
 
-
 ### Software Releases & Project Updates
 - Hedehog - https://github.com/supertestnet/hedgehog
+ - Hedgehog is a protocol for two-party payment channels designed for asynchronous layer 2 Bitcoin transactions.
+ - Hedgehog channels offer offline receive capabilities and are built using revocable connectors, revocable scripts, and connector outputs.
+ - State updates in Hedgehog channels only require the sender to propose changes and the recipient to accept them, allowing for greater flexibility in transaction timing.
+ - The protocol can be used to create a federated coin pool called Burrow, which requires a coordination server for its operation.
 - Alby - https://github.com/getAlby/lightning-browser-extension/releases/tag/v3.7.0
+ - Alby Extension v3.7.0 introduces Safari browser support for Mac, iOS, and iPadOS devices.
+ - The update includes improved permission management for Nostr, stablesats integration, and new onboarding flows.
+ - Other features include NIP-44 encrypted messaging support, a new icon set, multi-language setup wizard, optimizations for small screens, and various bug fixes and improvements for different connectors.
+ - This version aims to improve overall user experience and functionality within the Alby Bitcoin Lightning browser extension.
 - Fedi Bravo - https://github.com/fedibtc/fedi-alpha/releases/tag/v1.15.9
+ - Fedimint v0.2.1 is a stable MVP release of the federated Chaumian e-cash mint backed by bitcoin, providing on-chain and Lightning deposit/withdrawal options.
+ - The release focuses on backward compatibility and bug fixes while offering a solid foundation for further development and applications like federated Nostr accounts and prediction markets.
+ - Contributions and testing are encouraged, but users should exercise caution when running it on mainnet due to potential risks associated with early adoption stages.
+ - Fedimint serves as a federated application framework, allowing for innovative projects and collaborative efforts within the ecosystem.
+- Unleashed.chat v0.1.19
+ - Now includes a Nostr DVM that can summarize text inputs using our Mistral 7B model. More models and request types coming soon! You can test it out with a Nostr DVM client like vendata.
+ - You can now start a chat with a data source right from the “Files and Data Sources” table. Just click on the three dots at the end of the row and select “Start Chat”.
+ - Small bugfixes
 - Zeus - https://github.com/ZeusLN/zeus/releases
-- Machankura - https://www.coindesk.com/consensus-magazine/2024/03/18/machankura-20-turning-feature-phones-into-bitcoin-hardware-wallets/
+ - Zeus v0.8.3-beta1 is a self-custodial mobile Lightning wallet featuring an embedded node, self-custodial Lightning addresses, PoS functionality, and support for LND, Core Lightning, and Eclair nodes.
+ - New features in this beta version include on-chain transaction coin control for LND, custom pictures for saved nodes and wallets, enhanced Neutrino peer controls, ping test, and Signet support.
+ - Additionally, there are improvements made to LNC connection support.
+ - Users are invited to test the latest version and provide feedback to help refine and enhance the Zeus wallet experience.
 - BTCPay - https://github.com/btcpayserver/btcpayserver/releases/tag/v1.13.0
+ - BTCPay Server v1.13.0 introduces server branding, contact options, improved admin overviews, invitations via email/link, new store roles, better Bitcoin QR support, and various integrations.
+ - New features include customizable server names, contact information display, enhanced admin capabilities, easy user invitation process, and additional store roles like Manager and Employee.
+ - Other improvements include a revamped keypad Point of Sale, better compatibility with PrestaShop, and new plugins such as Bringin and Breez.
+ - Some plugins might become incompatible after updating to v1.13.0; users should review any notifications and update affected plugins accordingly.
 - Nunchuk - https://github.com/nunchuk-io/nunchuk-desktop/releases
+ - Nunchuk updates include a new onboarding flow for first-time users, a 'consolidate coins' shortcut for simplified coin management, and a 'create hot wallet' feature for quick setup with backup options.
+ - These enhancements aim to improve overall user experience and ease of use within the Nunchuk Bitcoin multisig wallet platform.
+ - Additionally, bug fixes and performance improvements have been implemented across both desktop and mobile applications.
+ - Users are encouraged to explore these latest additions and provide feedback to help shape future development efforts.
 - Unchained - https://twitter.com/unchainedcom/status/1772271161000259806
+ - The Unchained iOS app has launched, providing users with a fast and secure method to purchase large amounts of bitcoin ($100k+) directly to their cold storage collaborative custody vaults.
+ - Key features of the app include real-time portfolio tracking, depositing bitcoins, maintaining ownership of assets regardless of service availability, and receiving security alerts for account protection.
+ - This launch aims to expand accessibility and convenience for users seeking advanced financial services related to bitcoin investments.
+ - As part of its commitment to transparency and customer satisfaction, Unchained continues to develop innovative solutions while prioritizing security and user control.
 - Jade - https://github.com/Blockstream/Jade/releases/tag/1.0.28
+ - Blockstream Jade v1.0.28 introduces QR PIN improvements for enhanced security.
+ - QR PIN enables an air-gapped unlock process without requiring a physical seed.
+ - New features include reducing the number of QR scans required for unlocking and adding change PIN functionality.
+ - More thorough seed quiz during setup ensures that users see all 12/24 words in the backup check.
 - Mercury Layer Lightning Latch Swap - https://twitter.com/gregory_nico/status/1767914614551961835
+ - CommerceBlock introduced Lightning Latch Swap protocol for Mercury Layer, enabling statecoin transfers conditional on successful Lightning Network payments.
+ - Lightning Latch Transfer allows for atomic selling of assets such as ordinals or BTC while ensuring privacy and non-custodial transactions.
+ - With Mercury Layer's blinded servers, users can leverage Hodl invoices to lock funds until a payment hash pre-image is revealed.
+ - Potential use cases include ordinal artists, merchants, and instant lightning liquidity providers leveraging the protocol for new applications.
 - Bitcoin Brainbow v0.1.150 - https://github.com/Bitcoin-Brainbow/Brainbow/releases
+ - Bitcoin Brainbow v0.1.150 introduces low-entropy warning and offline mode for enhanced security.
+ - Low-entropy warning alerts users when their salt and passphrase combination provide less than 128 bits of entropy for a secure Bitcoin private key.
+ - Offline mode allows the wallet to function without an internet connection, improving flexibility and security.
+ - Brainbow is a stateless, noncustodial, deterministic Bitcoin brainwallet app based on the WarpWallet technique.
 - Cashu Nutshell v0.15.2 - https://github.com/cashubtc/nutshell/releases/tag/0.15.2
+ - mCashu Nutshell v0.15.2 release introduces a built-in rate limiter to the mint and improves automated testing of USD backends.
+ - Multiple stability updates and bug fixes are included in this release.
+ - New features include separate setting of sat and US dollar wallets in .env and improved information endpoint methods in NUTs.
+ - mCashu Nutshell is a Chaumian Ecash wallet and mint for Bitcoin Lightning implemented in Python
 - Labelbase v2.0.0 - https://github.com/Labelbase/Labelbase/
+ - Now available on Docker
+ - Automated Output Management
+ - Easy Import & Export
+ - Seamless Synchronization
+ - Efficient Label Management
+ - Flexible Hosting Options
+ - On-Demand Support
+- Mutiny (https://github.com/MutinyWallet/mutiny-node/releases/tag/v0.6.0)
+ - Integrated nostr account
+ - Added federation discovery
+ - Integrated DMs
+ - Added payment requests
+- Mynymbox: anonymous hosting
+ - Offers anonymous domain registration, web hosting and VPS
+ - Servers located in Germany
+ - Accepts bitcoin
+- Citrine: A Nostr relay in your phone
+ - “Allows any nostr client that supports Android to send and receive events from this application.”
+ - Future features:
+ - Export full database
+ - Export only events from your account
+ - Manage the relay (port, icon, user, start, stop)
+ - Add content resolvers
+
 
 ### Geyser Project Spotlight 
-- Sovereign Mining on StartOS 
+- Sovereign Mining on StartOS
+ - Raising funds to package Public Pool for StartOS.
 - S19 Hashboard heater MK1
+ - Rasing funds to make an open-source, wall-mounted Heater using a single S19 Hashboard. 
 
 
 ### Outro 
@@ -103,4 +178,5 @@ Ideas
 - SN Ideas 
  - AMA (I'm Marks from the Freedom Tech Wrap Podcast Ask me anything) 
  - Freedom Tech Wrap Territory (discuss freedom tech and upload applicable updates/releases for sats.)
-- ### Podcasts (recaps of recent podcasts) 
+- Podcast recaps in the script 
+- Geyser Project Shoutouts 
