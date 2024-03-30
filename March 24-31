@@ -17,13 +17,41 @@ Title: Freedom Tech Wrap - Episode 13
 
 ### News
 - Julian Assange will not be immediately extradited to the U.S., British court rules [CNBC](https://www.cnbc.com/2024/03/26/uk-court-rules-julian-assange-can-appeal-his-extradition-to-the-us.html?__source=sharebar%7Ctwitter&par=sharebar&r)
+ - British court grants Julian Assange permission to appeal his extradition to the US.
+ - The court ruled that Assange will not be extradited immediately; however, he may face extradition if the US provides "satisfactory assurances" regarding specific aspects of his appeal.
+ - A further hearing on May 20th will determine if the assurances provided by the US are sufficient.
+ - Assange has been fighting extradition for over a decade and currently resides in a high-security prison in the UK.
 - EU AML package - [CoinDesk](https://www.coindesk.com/policy/2024/03/19/eu-lawmakers-vote-for-three-major-texts-in-anti-money-laundering-package-that-also-targets-crypto/)
+ - EU lawmakers adopt three key texts as part of a broad anti-money laundering legislative package targeting cryptocurrencies.
+ - This package includes setting up an Anti-Money Laundering Authority (AMLA), establishing a single rulebook for all 27 member states, and implementing strict rules for crypto service providers.
+ - These measures aim to combat money laundering and terrorism financing within the EU.
+ - The adoption of these texts marks progress towards creating a unified approach to combating financial crimes throughout the European Union.
 - SBF 25 Years [Financial Times](https://www.ft.com/content/e4528411-eb3c-4fdc-8ebd-4132149b1924)
+ -
+ - 
+ - 
+ - 
+- Backdoor Found in XZ Tools Used by Most Linux Distros  - https://www.redhat.com/en/blog/urgent-security-alert-fedora-41-and-rawhide-users
+ - 
+ -
+ -
+ - 
+- Bitmain Launches Antminer S21 Pro - https://bitcoinmagazine.com/business/bitmain-launches-antminer-s21-pro-advanced-bitcoin-mining
+ -
+ - 
+ - 
+ -
+- NeutronPay - https://neutronpay.com/blogs/axiom-capital-leads-1-5m-bridge-round-for-neutronpay-pioneering-lightning-network-expansion-in-southeast-asia
+ -
+ - 
+ -
+ -
  
 
 
 ### Articles 
 - The INFOSEC BASICS: HOW TO KEEP YOUR BITCOIN SEED PHRASE SECURE [Bitcoin Magazine](https://bitcoinmagazine.com/guides/the-infosec-basics-how-to-keep-your-bitcoin-seed-phrase-secure) 
+- Judge Imposes Worldwide Asset Freeze on Fake Satoshi Craig Wright https://bitcoinmagazine.com/legal/judge-imposes-worldwide-asset-freeze-on-fake-satoshi-craig-wright
 
 
 
@@ -38,6 +66,9 @@ Title: Freedom Tech Wrap - Episode 13
 - Unchained - https://twitter.com/unchainedcom/status/1772271161000259806
 - Jade - https://github.com/Blockstream/Jade/releases/tag/1.0.28
 - Mercury Layer Lightning Latch Swap - https://twitter.com/gregory_nico/status/1767914614551961835
+- Bitcoin Brainbow v0.1.150 - https://github.com/Bitcoin-Brainbow/Brainbow/releases
+- Cashu Nutshell v0.15.2 - https://github.com/cashubtc/nutshell/releases/tag/0.15.2
+- Labelbase v2.0.0 - https://github.com/Labelbase/Labelbase/
 
 ### Geyser Project Spotlight 
 - Sovereign Mining on StartOS 
