@@ -27,30 +27,35 @@ Title: Freedom Tech Wrap - Episode 13
  - These measures aim to combat money laundering and terrorism financing within the EU.
  - The adoption of these texts marks progress towards creating a unified approach to combating financial crimes throughout the European Union.
 - SBF 25 Years [Financial Times](https://www.ft.com/content/e4528411-eb3c-4fdc-8ebd-4132149b1924)
- -
- - 
- - 
- - 
+ - Sam Bankman-Fried, founder of FTX, has been sentenced to 25 years in federal prison for defrauding customers and investors.
+ - Bankman-Fried stole over $8 billion from his customers, demonstrating a "brazen disregard for customers' expectations and disrespect for the rule of law."
+ - Judge Kaplan ordered Bankman-Fried's forfeited assets ($11.02 billion) to be used to help repay victims of the FTX collapse.
+ - The sentence aims to deter others from engaging in similar financial crimes and emphasizes the severity of such actions.
 - Backdoor Found in XZ Tools Used by Most Linux Distros  - https://www.redhat.com/en/blog/urgent-security-alert-fedora-41-and-rawhide-users
- - 
- -
- -
- - 
+ - Malicious code found in xz library versions 5.6.0 and 5.6.1 affects Fedora 40 and Fedora Rawhide.
+ - No versions of Red Hat Enterprise Linux (RHEL) are affected.
+ - Immediately stop usage of any Fedora Rawhide instances for work or personal activity; downgrading to xz-5.4.x is recommended.
+ - Consult with information security teams for businesses and follow downgrade procedures provided by distributors like openSUSE.
 - Bitmain Launches Antminer S21 Pro - https://bitcoinmagazine.com/business/bitmain-launches-antminer-s21-pro-advanced-bitcoin-mining
- -
- - 
- - 
- -
+ - Bitmain announces the launch of the Antminer S21 Pro at WDMS 2024.
+ - The new device offers improved efficiency and increased hash rates compared to the previous model, the S21.
+ - With a hash rate of 234 TH/s and an energy efficiency ratio of 15.0 J/TH, the S21 Pro is more durable than its predecessor, able to handle higher temperatures.
+ - The after coupon U.S. dollar to terahash rate for the device is $18.9/TH, and it will start shipping in Q3 2024.
 - NeutronPay - https://neutronpay.com/blogs/axiom-capital-leads-1-5m-bridge-round-for-neutronpay-pioneering-lightning-network-expansion-in-southeast-asia
- -
- - 
- -
- -
+ - Neutronpay completes a $1.5m bridge funding round, led by Axiom Capital.
+ - Funding aims to expand Neutronpay's presence in Southeast Asia and foster an inclusive digital economy through instant and low-cost payment solutions
+ - Neutronpay leverages the Lightning Network to provide a compelling alternative for businesses and consumers seeking more efficient engagement with the global digital economy.
+ - The company collaborates with leading businesses and custodial services to advance its mission of enhancing digital payment accessibility and efficiency worldwide.
  
 
 
 ### Articles 
 - The INFOSEC BASICS: HOW TO KEEP YOUR BITCOIN SEED PHRASE SECURE [Bitcoin Magazine](https://bitcoinmagazine.com/guides/the-infosec-basics-how-to-keep-your-bitcoin-seed-phrase-secure) 
+ - Never share your seed phrase with anyone: Your seed phrase grants full control over your Bitcoin wallet, so never give it to others under any circumstance.
+ - Avoid digital storage methods: Computers and online platforms are vulnerable to hacking and malware attacks, which could expose your seed phrase. Use physical, non-digital means to store your seed phrase.
+ - Choose durable materials for storing your seed phrase: Opt for metal tiles or plates instead of paper, as these materials provide better protection against damage and degradation over time.
+ - Store your seed phrase in a secure location: Keep your seed phrase in a locked safe or a securely hidden area away from unauthorized access. Consider splitting your backup using trusted protocols like Seed XOR or Shamir's Secret Sharing for added security.
+ - Regularly check on your seed phrase backup: Ensure that your seed phrase remains safely stored and undisturbed by periodically checking its condition and location.
 - Judge Imposes Worldwide Asset Freeze on Fake Satoshi Craig Wright https://bitcoinmagazine.com/legal/judge-imposes-worldwide-asset-freeze-on-fake-satoshi-craig-wright
 
 
@@ -98,3 +103,4 @@ Ideas
 - SN Ideas 
  - AMA (I'm Marks from the Freedom Tech Wrap Podcast Ask me anything) 
  - Freedom Tech Wrap Territory (discuss freedom tech and upload applicable updates/releases for sats.)
+- ### Podcasts (recaps of recent podcasts) 
