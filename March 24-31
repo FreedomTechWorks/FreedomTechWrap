@@ -10,60 +10,63 @@ Title: Freedom Tech Wrap - Episode 13
 - Freedom Tech Wrap is an independent show, if you want to support what we're doing, you can send us value through your podcasting 2.0 app. 
 - Your support and feedback are greatly appreciated. 
 
+
 ### Boosts
 - Thanks to everyone who streamed sats, and shoutout to our top booster:
   - [🏆 TOP BOOSTER] @thewildhustle (500 sats) "Great rip"
 
 
 ### News
-- Julian Assange will not be immediately extradited to the U.S., British court rules [CNBC](https://www.cnbc.com/2024/03/26/uk-court-rules-julian-assange-can-appeal-his-extradition-to-the-us.html?__source=sharebar%7Ctwitter&par=sharebar&r)
- - British court grants Julian Assange permission to appeal his extradition to the US.
- - The court ruled that Assange will not be extradited immediately; however, he may face extradition if the US provides "satisfactory assurances" regarding specific aspects of his appeal.
- - A further hearing on May 20th will determine if the assurances provided by the US are sufficient.
- - Assange has been fighting extradition for over a decade and currently resides in a high-security prison in the UK.
-- EU AML package - [CoinDesk](https://www.coindesk.com/policy/2024/03/19/eu-lawmakers-vote-for-three-major-texts-in-anti-money-laundering-package-that-also-targets-crypto/)
- - EU lawmakers adopt three key texts as part of a broad anti-money laundering legislative package targeting cryptocurrencies.
+- Julian Assange Will Not Be Extradited Immediately as British Court Rules [CNBC](https://www.cnbc.com/2024/03/26/uk-court-rules-julian-assange-can-appeal-his-extradition-to-the-us.html?__source=sharebar%7Ctwitter&par=sharebar)
+ - A UK court has ruled that Julian Assange cannot be extradited immediately to the United States. However, he may face extradition if the US provides "satisfactory assurances" regarding specific aspects of his appeal.
+ - A further hearing on May 20th will determine whether these assurances are sufficient. 
+ - Assange has been fighting extradition for over a decade while residing in a high-security prison in the UK.
+- EU Adopts Anti-Money Laundering Package Targeting Cryptocurrencies [CoinDesk](https://www.coindesk.com/policy/2024/03/19/eu-lawmakers-vote-for-three-major-texts-in-anti-money-laundering-package-that-also-targets-crypto/)
+ - The European Union has adopted three key texts as part of a broad anti-money laundering legislative package targeting cryptocurrencies.
  - This package includes setting up an Anti-Money Laundering Authority (AMLA), establishing a single rulebook for all 27 member states, and implementing strict rules for crypto service providers.
  - These measures aim to combat money laundering and terrorism financing within the EU.
- - The adoption of these texts marks progress towards creating a unified approach to combating financial crimes throughout the European Union.
-- SBF 25 Years [Financial Times](https://www.ft.com/content/e4528411-eb3c-4fdc-8ebd-4132149b1924)
- - Sam Bankman-Fried, founder of FTX, has been sentenced to 25 years in federal prison for defrauding customers and investors.
- - Bankman-Fried stole over $8 billion from his customers, demonstrating a "brazen disregard for customers' expectations and disrespect for the rule of law."
+- Sam Bankman-Fried Sentenced to 25 Years in Federal Prison for Defrauding Customers and Investors [Financial Times](https://www.ft.com/content/e4528411-eb3c-4fdc-8ebd-4132149b1924)
+ - Founder of FTX, Sam Bankman-Fried, has been sentenced to 25 years in federal prison for defrauding customers and investors.
+ - He stole over $8 billion from his clients, demonstrating a "brazen disregard for customers' expectations and disrespect for the rule of law."
  - Judge Kaplan ordered Bankman-Fried's forfeited assets ($11.02 billion) to be used to help repay victims of the FTX collapse.
  - The sentence aims to deter others from engaging in similar financial crimes and emphasizes the severity of such actions.
-- Backdoor Found in XZ Tools Used by Most Linux Distros [Redhat](https://www.redhat.com/en/blog/urgent-security-alert-fedora-41-and-rawhide-users)
+- Backdoor Found in XZ Tools Used by Most Linux Distros [Redhat](https://www.redhat.com/en/blog/urgent-security-alert-fedora-41-and-rawhide-users)
  - Malicious code found in xz library versions 5.6.0 and 5.6.1 affects Fedora 40 and Fedora Rawhide.
  - No versions of Red Hat Enterprise Linux (RHEL) are affected.
- - Immediately stop usage of any Fedora Rawhide instances for work or personal activity; downgrading to xz-5.4.x is recommended.
- - Consult with information security teams for businesses and follow downgrade procedures provided by distributors like openSUSE.
-- Bitmain Launches Antminer S21 Pro [Bitcoin Magazine](https://bitcoinmagazine.com/business/bitmain-launches-antminer-s21-pro-advanced-bitcoin-mining)
+ - Users are advised to stop usage of any Fedora Rawhide instances for work or personal activity; downgrading to xz-5.4.x is recommended.
+ - Consult information security teams for businesses and follow downgrade procedures provided by distributors like openSUSE.
+- Bitmain Launches Antminer S21 Pro at WDMS 2024 [Bitcoin Magazine](https://bitcoinmagazine.com/business/bitmain-launches-antminer-s21-pro-advanced-bitcoin-mining)
  - Bitmain announces the launch of the Antminer S21 Pro at WDMS 2024.
- - The new device offers improved efficiency and increased hash rates compared to the previous model, the S21.
+ - The new device offers improved efficiency and increased hash rates compared to the previous model, the S21. 
  - With a hash rate of 234 TH/s and an energy efficiency ratio of 15.0 J/TH, the S21 Pro is more durable than its predecessor, able to handle higher temperatures.
  - The after coupon U.S. dollar to terahash rate for the device is $18.9/TH, and it will start shipping in Q3 2024.
-- NeutronPay [Neutronpay Blog](https://neutronpay.com/blogs/axiom-capital-leads-1-5m-bridge-round-for-neutronpay-pioneering-lightning-network-expansion-in-southeast-asia)
- - Neutronpay completes a $1.5m bridge funding round, led by Axiom Capital.
- - Funding aims to expand Neutronpay's presence in Southeast Asia and foster an inclusive digital economy through instant and low-cost payment solutions
- - Neutronpay leverages the Lightning Network to provide a compelling alternative for businesses and consumers seeking more efficient engagement with the global digital economy.
+- Neutronpay Completes $1.5 Million Bridge Funding Round Led by Axiom Capital [NeutronPay Blog](https://neutronpay.com/blogs/axiom-capital-leads-1-5m-bridge-round-for-neutronpay-pioneering-lightning-network-expansion-in-southeast-asia)
+ - Neutronpay completes a $1.5 million bridge funding round led by Axiom Capital.
+ - The funds aim to expand Neutronpay's presence in Southeast Asia and foster an inclusive digital economy through instant and low-cost payment solutions.
+ - Leveraging the Lightning Network, Neutronpay provides a compelling alternative for businesses and consumers seeking more efficient engagement with the global digital economy.
  - The company collaborates with leading businesses and custodial services to advance its mission of enhancing digital payment accessibility and efficiency worldwide.
-- Machankura [Coindesk](https://www.coindesk.com/consensus-magazine/2024/03/18/machankura-20-turning-feature-phones-into-bitcoin-hardware-wallets/)
- - Machankura 2.0 turns feature phones into Bitcoin hardware wallets, enabling transactions through the Lightning Network without requiring an internet connection.
- - The platform was developed by Kgothatso Ngako, who previously allowed Africans to transact bitcoin via feature phones for the first time.
- - By using Machankura, individuals can access and utilize Bitcoin despite not having smartphones or reliable internet connections.
- - The innovation aims to bring financial inclusion and empowerment to those who may otherwise be excluded from the benefits of cryptocurrency adoption.
-
-### Articles 
-- The INFOSEC BASICS: HOW TO KEEP YOUR BITCOIN SEED PHRASE SECURE [Bitcoin Magazine](https://bitcoinmagazine.com/guides/the-infosec-basics-how-to-keep-your-bitcoin-seed-phrase-secure) 
- - Never share your seed phrase with anyone: Your seed phrase grants full control over your Bitcoin wallet, so never give it to others under any circumstance.
- - Avoid digital storage methods: Computers and online platforms are vulnerable to hacking and malware attacks, which could expose your seed phrase. Use physical, non-digital means to store your seed phrase.
- - Choose durable materials for storing your seed phrase: Opt for metal tiles or plates instead of paper, as these materials provide better protection against damage and degradation over time.
- - Store your seed phrase in a secure location: Keep your seed phrase in a locked safe or a securely hidden area away from unauthorized access. Consider splitting your backup using trusted protocols like Seed XOR or Shamir's Secret Sharing for added security.
- - Regularly check on your seed phrase backup: Ensure that your seed phrase remains safely stored and undisturbed by periodically checking its condition and location.
+- Machankura 2.0 Turns Feature Phones into Bitcoin Hardware Wallets without Internet Connection [Coindesk](https://www.coindesk.com/consensus-magazine/2024/03/18/machankura-20-turning-feature-phones-into-bitcoin-hardware-wallets/)
+ - Kgothatso Ngako developed Machankura 2.0, which allows feature phones to function as Bitcoin hardware wallets while requiring no internet connection.
+ - By using this platform, individuals can access and utilize Bitcoin despite not having smartphones or reliable internet connections. 
+ - The innovation aims to bring financial inclusion and empowerment to those who may otherwise be excluded from the benefits of bitcoin adoption.
 - Judge Imposes Worldwide Asset Freeze on Fake Satoshi Craig Wright [Bitcoin Magazine](https://bitcoinmagazine.com/legal/judge-imposes-worldwide-asset-freeze-on-fake-satoshi-craig-wright)
  - A UK judge imposed a worldwide asset freeze on Craig Wright, the man who falsely claimed to be Satoshi Nakamoto, the creator of Bitcoin.
  - The freeze was valued at $7.6 million and came after Wright lost a lawsuit against the Crypto Open Patent Alliance (COPA), which proved he didn't create Bitcoin.
  - The judge expressed concern over Wright's intention to avoid costs related to the case by transferring shares to an offshore company.
  - Wright must now reveal all assets above $30,000 and cannot reduce his total assets below $7.6 million. This action aims to ensure funds are available to pay COPA's expected costs.
+
+
+### Article 
+- The INFOSEC BASICS: HOW TO KEEP YOUR BITCOIN SEED PHRASE SECURE [Bitcoin Magazine](https://bitcoinmagazine.com/guides/the-infosec-basics-how-to-keep-your-bitcoin-seed-phrase-secure) 
+ - Security Tips for Safeguarding Your Bitcoin Seed Phrase Bitcoin Magazine 
+ - In Summary
+  - Your Bitcoin seed phrase holds the key to your crypto wealth; thus, keeping it secure should be a top priority. Here are some essential tips to help you protect your seed phrase:
+  - Never Share Your Seed Phrase: Treat your seed phrase like cash – don’t share it with anyone. Remember, whoever has your seed phrase controls your Bitcoin wallet.
+  - Avoid Digital Storage Methods: Storing your seed phrase digitally exposes it to potential hacks and malware attacks. Instead, opt for physical, non-digital storage options.
+  - Choose Durable Materials: Select robust materials such as metal tiles or plates when storing your seed phrase. These materials offer better resistance against wear and tear compared to paper.
+  - Store It Securely: Keep your seed phrase in a locked safe or concealed location where only authorized persons have access. For additional security, consider employing trusted protocols like Seed XOR or Shamir's Secret Sharing to split your backup.
+  - Regular Checkups: Periodically inspect your seed phrase backup to ensure it remains intact and undisturbed.
+  - By following these guidelines, you can significantly minimize the risk of losing control over your Bitcoin holdings due to compromised seed phrases.
 
 
 ### Software Releases & Project Updates
