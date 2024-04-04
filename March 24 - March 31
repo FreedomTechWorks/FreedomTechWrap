@@ -4,7 +4,7 @@ Title: Freedom Tech Wrap - Episode 13
 ---
 
 ### Intro
-- What's up everybody? For the week ending March 23, my name is Marks and this is Freeedom Tech Wrap.
+- What's up everybody? For the week ending March 31, my name is Marks and this is Freeedom Tech Wrap.
 - Freedom Tech Wrap is a weekly source for news and project updates in the freedom and independent technology space. 
 - We live in a hightly connected world. Freedom Tech lets you decide how you want to connect and where you want your data to live. 
 - Freedom Tech Wrap is an independent show, if you want to support what we're doing, you can send us value through your podcasting 2.0 app. 
@@ -54,6 +54,15 @@ Title: Freedom Tech Wrap - Episode 13
  - The freeze was valued at $7.6 million and came after Wright lost a lawsuit against the Crypto Open Patent Alliance (COPA), which proved he didn't create Bitcoin.
  - The judge expressed concern over Wright's intention to avoid costs related to the case by transferring shares to an offshore company.
  - Wright must now reveal all assets above $30,000 and cannot reduce his total assets below $7.6 million. This action aims to ensure funds are available to pay COPA's expected costs.
+- Casa Launches Inheritance Product
+ - From No BS Bitcoin
+ - Our appoach to inheritance feels incredibly smooth and familiar. Invite your spouse or other designated recipient to Casa, then share keys with them securly via the app. They won't be able to use those keys to sign transactions until you've passwed away."
+ - It's available worldwide without any KYC information.
+- Jan - Turn Your Computer into an AI machine
+ - Jan is an open source ChatGPT alternative that runs on a desktop
+ - Thanks to user @ava for the tip
+ - You can find it at https://jan.ai
+ - I haven't tried it yet, so evaluate before using
 
 
 ### Article 
@@ -153,6 +162,15 @@ Title: Freedom Tech Wrap - Episode 13
  - Export only events from your account
  - Manage the relay (port, icon, user, start, stop)
  - Add content resolvers
+- NDK 2.6
+ - Codename: Make Nostr Decentralized Again
+ - Improves outbox model's relay selection
+ - Masively reduces bandwidth requirements
+ - Smarter filter logic
+ - Adds support for "relay blacklist" kind
+ - Improves URL normalizations
+ - Improves cache invalidation
+
 
 
 ### Geyser Project Spotlight 
@@ -174,9 +192,8 @@ Title: Freedom Tech Wrap - Episode 13
 ### Song of the Week
 - To close it out, we have the song of the week, where your sats directly support that artist, so stick around and boost.
 - For the rest of you, thanks for listening to Freedom Tech Wrap, and remember to live independent. Later. 
-- (Wavlake Music)
- - Recommendation 
-  - Schumann by Ryan Zak
+
+- This week I've picked a laid back song that you can listen to when you're feeling overly stressed. This is Ollie with Keep Breathing.
 
 
 
