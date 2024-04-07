@@ -19,23 +19,38 @@ Title: Freedom Tech Wrap - Episode 14
 
 ### News
 - Bull Bitcoin KYC [Twitter Announcement] (https://twitter.com/francispouliot_/status/1774840970841874438)
- -
+ -In-person payment options at Canada Post for purchasing Bitcoin through Bull Bitcoin will require identity verification starting April 15, 2024.
+This change has been imposed as a condition for continuing the service at Canada Post.
+Identity verification adds friction to the previous seamless user experience offered by Bull Bitcoin.
+Despite the inconvenience, Bull Bitcoin remains committed to its mission of establishing a Bitcoin standard using best practices.
  -
  -
 - Argentina Creates Mandatory Registry for Bitcoin Service Providers Operating in the Country [Forbes](https://www.forbes.com/sites/digital-assets/2024/03/31/argentina-unveiled-mandatory-registry-for-bitcoin-and-crypto-platforms/?sh=68f817cf59fe)
- -
+ -Anarcho-capitalist and libertarian leader Javier Milei took power in Argentina in December 2023, leading to expectations of increased Bitcoin (BTC) and cryptocurrency adoption.
+However, in late March, the Comisión Nacional de Valores (CNV) in Argentina announced a new mandatory Registry of Virtual Asset Service Providers for those operating with crypto assets in the country.
+Companies and individuals involved in activities like buying, selling, sending, receiving, lending, or trading cryptos must complete the registration, affecting both local and foreign providers.
+Critics argue that the new requirement does not align with Milei's pro-Bitcoin stance and could benefit only state bureaucrats and compliance industries.
  -
  -
 - Coinbase Partners with Lightspark for lightning network integration [Lightspark Press Release](https://www.lightspark.com/news/coinbase-selects-lightspark)
- -
+ - Coinbase selects Lightspark to integrate the Bitcoin Lightning Network onto its platform.
+The partnership aims to provide instant, cost-effective transfers for Coinbase customers.
+Lightspark offers a simplified integration process for the Lightning Network, enabling near real-time, low-cost Bitcoin transactions.
+Coinbase will use Lightspark's remote-key signing implementation for a scalable, reliable, and optimized node infrastructure.
  -
  -
 - Casa Acquires Applied Cryptography Team Chamber [Casa Press Release](https://www.prnewswire.com/news-releases/casa-acquires-cryptography-team-chamber-names-new-coo-and-cto-302107490.html)
- -
+ -Casa acquires Chamber, a team specialized in applied cryptography and passkeys, marking Casa's first acquisition.
+Chamber previously developed software to enhance the security and usability of private keys across multiple applications.
+The acquisition aims to help Casa further reduce friction and improve security when managing private keys.
+Both Chamber co-founders, William Allen and Bryan Latten, join Casa as COO and CTO respectively.
  -
  -
 - Tether Awards $100,000 to BTCPay Server for Advancements in Bitcoin Payment Accessibility [Bitcoin Times](https://www.btctimes.com/news/tether-awards-100000-to-btcpay-server-for-advancements-in-bitcoin-payment-accessibility)
- -
+ -Tether announces a $100,000 donation to the BTCPay Server Foundation, supporting the FOSS movement.
+Tether's CEO, Paolo Ardoino, highlights the importance of open-source software in driving technological advancements and accessibility.
+The BTCPay Server Foundation develops open-source payment processing software for accepting Bitcoin and USDt payments on Liquid.
+Tether's financial backing is viewed as an endorsement of the foundation's mission to facilitate global Bitcoin adoption without geographical, political, or financial barriers.
  -
  -
 
@@ -49,14 +64,21 @@ Title: Freedom Tech Wrap - Episode 14
  - The goal is to produce an industry paper addressing various aspects of CISA's potential benefits, such as improved privacy, cost savings, and compatibility with other technologies like Lightning Network and CoinJoin.
  - The selected candidate will receive 50 million satoshis (BTC equivalent) to fund their research and writing efforts over a four-month period.
  - Applications should be submitted via email to cisafellowship@hrf.org by May 15, 2024, including details about the applicant's background, research plans, and initial thoughts on CISA's potential impact on Bitcoin.
+- Bisq2 Market Day
+- Tuscany Lightning Summit
 
 
-### Article 
+### Articles 
 - Decentralization and localized manufacturing: Bitcoin, AI and 3D printing [Bitcoin Magazine](https://bitcoinmagazine.com/technical/decentralization-and-localized-manufacturing-bitcoin-ai-and-3d-printing) by Emile Phaneuf
  - Decentralization and localized manufacturing have been key drivers of disruption throughout history, including advances in agriculture, knightly technology, gunpowder, and the printing press.
  - Bitcoin serves as an alternative to traditional monetary systems controlled by nation states, but faces challenges due to its reliance on hardware produced by a limited number of manufacturers.
  - Artificial Intelligence also poses risks to decentralization, as governments may seek to regulate or control technologies that favor individuals over the state.
  - Localized manufacturing through 3D printers and "maker" tools offers a promising pathway toward greater decentralization, though it may face opposition from governments seeking to maintain control over these technologies.
+- One of the cheat codes I've learned—Geoarbitrage [Stacker News Post](https://stacker.news/items/494208) by @Natalia
+ - Geoarbitrage involves moving to locations with significantly lower living costs without sacrificing quality of life.
+ - The concept goes beyond just saving on expenses; it encourages thinking creatively and problem solving.
+ - Examples of geoarbitrage include leveraging currency differences, tax-free shopping, digital migration, medical treatments, remote hiring, and valuing personal attributes based on scarcity.
+ - By embracing geoarbitrage, individuals can enjoy greater financial freedom and explore new opportunities around the globe.
 
 
 ### Software Releases & Project Updates
@@ -67,48 +89,66 @@ Title: Freedom Tech Wrap - Episode 14
  - Text selection enabled in thread view
  - Various fixes and improvements
 - Mutiny Wallet v0.6.1: New Home Screen, Nostr Profile Setup, Federation Discovery & Recommendations [Mutiny Blog](https://blog.mutinywallet.com/mutiny-new-design-people-oriented/)
- -
+ - Mutiny Wallet v0.6.1 introduces a new home screen design focused on social interactions and easy access to recent profiles.
+A nostr-based profile setup walkthrough has been added, allowing users to create or import nostr profiles for direct messaging and transactions within the app.
+Federation discovery and recommendations have been integrated, enabling users to find and join suitable fedimints using an open protocol powered by nostr.
+An upcoming feature includes federated lightning addresses that lock incoming payments to a specific key, providing enhanced security and control over funds.
  -
  -
 - Liana v5.0: Coldcard & Experimental Taproot Support [Github](https://github.com/wizardsardine/liana/releases/tag/v5.0)
- -
+ -Liana v5.0 introduces support for the Coldcard signing device and experimental Taproot functionality.
+Users can now try Liana with their Coldcard using the Edge firmware, promoting testing of Miniscript implementations.
+Experimental Taproot support is included, although full compatibility with various signing devices remains a work in progress.
+User experience enhancements include improved spend transaction creation, automatic labeling of RBF transactions, and better handling of errors during rescan processes.
  -
  -
 - COLDCARD Q1 Firmware v1.1.0 [Nostr Announcement](https://nostr.com/note1a22hh6k3gptvhs3gu0m8a2j8w7pnpckujc0z0ycpcr3p2cpj6hqqe64yp9)
- -
+ -COLDCARD Q1 Firmware v1.1.0 includes address validation through QR scan or NFC for multisig or single signature wallets.
+The update adds a cover calculation login feature for enhanced security.
+Several bug fixes and performance improvements have been implemented, such as fixing issues related to base64 PSBT decoding and addressing problems with BIP39 passphrases.
+Enhanced features include cursor movement wrapping and force setting default hardware options upon restoration of clones or backups.
  -
  -
 - Fedimint v0.3.0: Improved Version Compatibility, New Features & Fixes [Github](https://github.com/fedimint/fedimint/releases)
- -
+ - Fedimint v0.3.0 introduces improved version compatibility between federation and client software, ensuring seamless updates and maintenance.
+This release includes numerous enhancements and additions, such as dynamic meta fields, improved load-testing metrics, and added support for paying LNURLs.
+Various bug fixes and optimizations have also been implemented, improving overall stability and performance.
+Contributions are welcome; users can join the discussion on Discord or GitHub for further information.
  -
  -
 - Unleashed.Chat v0.1.19: Nostr DVM, Bugfixes [Nostr Announcement](https://nostr.com/note1n2q2qzdqxw2rqw76xpplcyd5ne445ejssca8p4mjswjen779t89salfktd)
- -
+ - Introduced Nostr DVM feature allowing users to summarize text inputs using the Mistral 7B model. Additional models and request types will be added later.
+Enabled starting chats directly with data sources from the "Files and Data Sources" table through the three dots menu option.
+Implemented minor bug fixes to improve overall performance and stability.
  -
  -
 - RoninUI v2.5.0: New Troubleshooting Page, Enhanced Whirlpool UI [Ronin Blog](https://blog.ronindojo.io/roninui-update-v2-5-0/)
- -
+ - Added a new Troubleshooting page featuring options to delete corrupted databases and clear Docker build caches.
+Improved Whirlpool UI functionality, including pagination for large UTXO sets, hiding/showing non-mixable UTXOs, and adding a Mix History view for recent mixes.
+Enhancements include warnings for high disk usage, conditionally making API calls, encrypting passwords, and additional features such as checking other transactions and resetting Whirlpool CLI configurations.
  -
  -
 - Citadel v0.3.5: Switch Between Core or Knots [Twitter Announcement](https://twitter.com/runcitadel/status/1774857076667224147)
- -
+ -Citadel v0.3.5 introduces the ability to switch between Bitcoin Core and Bitcoin Knots as the primary wallet software.
+Includes several bug fixes and application updates.
+Celebrates one year anniversary of Nirvati announcement, promising more news on the project soon.
  -
  -
 
 
 ### Geyser Project Weekly Leaderboard
-- Spirit of Satoshi
- -
- -
- -
-- Orphans of Uganda
- -
- -
- -
-- Bitcoin House Bali
- -
- -
- -
+- Spirit of Satoshi [Geyser](https://geyser.fund/project/spiritofsatoshi)
+ - Proof of Knowledge: Crowdsourcing the world's first truly Bitcoin-centric Language Model, with the help of the global Bitcoin Community.
+ - 309 Funders
+ - 56 Million funded
+- Orphans of Uganda [Geyser](https://geyser.fund/project/orphansofuganda8333mobi)
+ - A Bitcoin friendly children's home sparking a circular economy in the heart of Bugiri district
+ - 55 Funders 
+ - 18 Million funded
+- Bitcoin House Bali [Geyser](https://geyser.fund/project/bitcoinhousebali)
+ - Bitcoin House Bali - Community, Education & Co-Working Space
+ - 16 funders
+ - 686 Thousdand funded
 
 
 ### Outro 
