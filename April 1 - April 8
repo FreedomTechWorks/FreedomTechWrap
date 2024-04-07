@@ -1,10 +1,10 @@
 [Intro Music]
 ---
-Title: Freedom Tech Wrap - Episode 13
+Title: Freedom Tech Wrap - Episode 14
 ---
 
 ### Intro
-- What's up everybody? For the week ending March 31, my name is Marks and this is Freeedom Tech Wrap.
+- What's up everybody? For the week ending April 8, my name is Marks and this is Freeedom Tech Wrap.
 - Freedom Tech Wrap is a weekly source for news and project updates in the freedom and independent technology space. 
 - We live in a hightly connected world. Freedom Tech lets you decide how you want to connect and where you want your data to live. 
 - Freedom Tech Wrap is an independent show, if you want to support what we're doing, you can send us value through your podcasting 2.0 app. 
@@ -13,7 +13,8 @@ Title: Freedom Tech Wrap - Episode 13
 
 ### Boosts
 - Thanks to everyone who streamed sats, and shoutout to our top booster:
-  - [🏆 TOP BOOSTER] @thewildhustle (500 sats) "Great rip"
+  - [🏆 TOP BOOSTER] @thetonewrecker (575 sats) "Slinging satoshis, Appreciate your efforts, Educational"
+  - @thewildhustle (500 sats) "Let's Go!"
 
 
 ### News
@@ -38,13 +39,24 @@ Title: Freedom Tech Wrap - Episode 13
  -
  -
 
+### Events
+- Ecash Hackday V2 to Take Place in Berlin on June 20-21 [Nostr Announcement](https://nostr.com/note1uz6cvzltsg2es2e3w3jxjxjvte5z99vwu2u838snpy9h47wwgjvsn4u480)
+ - ✨ Join us for the Ecash Hackday V2 in Berlin June 20-21 2k24. This is a small and intimate event for hackers, researchers, and anyone else interested in Chaumian Ecash.
+ - We have participants from GNU Taler, Fedimint, and Cashu. There will be talks, discussions, and a lot of code. Our goal is to bring the dev community closer together, exchange ideas, and work on cool projects during the hackathon.
+ - Register at https://ecashhackday.github.io/
+- HRF Is Sponsoring 4-Month Research Fellowship on the Future and State of Cross-Input Signature Aggregation (CISA) [Nostr Announcement](https://nostr.com/note1h4fdw5ttqmjwf3eqr0s5lqzjhdvwcayl0hrfnv726cw4eeag6phs9xszpw)
+ - Human Rights Foundation (HRF) announces a CISA Research Fellowship focused on analyzing Cross-Input Signature Aggregation (CISA), a potential upgrade for Bitcoin.
+ - The goal is to produce an industry paper addressing various aspects of CISA's potential benefits, such as improved privacy, cost savings, and compatibility with other technologies like Lightning Network and CoinJoin.
+ - The selected candidate will receive 50 million satoshis (BTC equivalent) to fund their research and writing efforts over a four-month period.
+ - Applications should be submitted via email to cisafellowship@hrf.org by May 15, 2024, including details about the applicant's background, research plans, and initial thoughts on CISA's potential impact on Bitcoin.
+
 
 ### Article 
 - Decentralization and localized manufacturing: Bitcoin, AI and 3D printing [Bitcoin Magazine](https://bitcoinmagazine.com/technical/decentralization-and-localized-manufacturing-bitcoin-ai-and-3d-printing) by Emile Phaneuf
- -
- -
- -
- -
+ - Decentralization and localized manufacturing have been key drivers of disruption throughout history, including advances in agriculture, knightly technology, gunpowder, and the printing press.
+ - Bitcoin serves as an alternative to traditional monetary systems controlled by nation states, but faces challenges due to its reliance on hardware produced by a limited number of manufacturers.
+ - Artificial Intelligence also poses risks to decentralization, as governments may seek to regulate or control technologies that favor individuals over the state.
+ - Localized manufacturing through 3D printers and "maker" tools offers a promising pathway toward greater decentralization, though it may face opposition from governments seeking to maintain control over these technologies.
 
 
 ### Software Releases & Project Updates
@@ -55,13 +67,33 @@ Title: Freedom Tech Wrap - Episode 13
  - Text selection enabled in thread view
  - Various fixes and improvements
 - Mutiny Wallet v0.6.1: New Home Screen, Nostr Profile Setup, Federation Discovery & Recommendations [Mutiny Blog](https://blog.mutinywallet.com/mutiny-new-design-people-oriented/)
+ -
+ -
+ -
 - Liana v5.0: Coldcard & Experimental Taproot Support [Github](https://github.com/wizardsardine/liana/releases/tag/v5.0)
+ -
+ -
+ -
 - COLDCARD Q1 Firmware v1.1.0 [Nostr Announcement](https://nostr.com/note1a22hh6k3gptvhs3gu0m8a2j8w7pnpckujc0z0ycpcr3p2cpj6hqqe64yp9)
+ -
+ -
+ -
 - Fedimint v0.3.0: Improved Version Compatibility, New Features & Fixes [Github](https://github.com/fedimint/fedimint/releases)
+ -
+ -
+ -
 - Unleashed.Chat v0.1.19: Nostr DVM, Bugfixes [Nostr Announcement](https://nostr.com/note1n2q2qzdqxw2rqw76xpplcyd5ne445ejssca8p4mjswjen779t89salfktd)
+ -
+ -
+ -
 - RoninUI v2.5.0: New Troubleshooting Page, Enhanced Whirlpool UI [Ronin Blog](https://blog.ronindojo.io/roninui-update-v2-5-0/)
+ -
+ -
+ -
 - Citadel v0.3.5: Switch Between Core or Knots [Twitter Announcement](https://twitter.com/runcitadel/status/1774857076667224147)
-
+ -
+ -
+ -
 
 
 ### Geyser Project Weekly Leaderboard
@@ -77,7 +109,6 @@ Title: Freedom Tech Wrap - Episode 13
  -
  -
  -
-
 
 
 ### Outro 
