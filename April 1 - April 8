@@ -77,12 +77,19 @@ Title: Freedom Tech Wrap - Episode 14
  - Feed rendering improvements
  - Text selection enabled in thread view
  - Various fixes and improvements
+- Zeus v0.8.3: On-chain tx Coin Control for LND [Github](https://github.com/ZeusLN/zeus/releases/tag/v0.8.3)
+ - On-chain transaction coin control for Lightning Network Daemon (LND)
+ - Custom pictures for saved nodes and wallets
+ - Enhanced Neutrino peer controls and ping test
+ - Reduced ZEUS Pay lightning address fees
+ - Signet support
+ - Improved LNC connection support
 - Mutiny Wallet v0.6.1: New Home Screen, Nostr Profile Setup, Federation Discovery & Recommendations [Mutiny Blog](https://blog.mutinywallet.com/mutiny-new-design-people-oriented/)
  - Mutiny Wallet v0.6.1 introduces a new home screen design focused on social interactions and easy access to recent profiles.
  - A nostr-based profile setup walkthrough has been added, allowing users to create or import nostr profiles for direct messaging and transactions within the app.
  - Federation discovery and recommendations have been integrated, enabling users to find and join suitable fedimints using an open protocol powered by nostr.
-- Mutiny Wallet v0.6.2: Federated Lightning Addresses for Mutiny+ Users
- - Mutiny Wallet introduces Lightning Addresses for Mutiny+ users, enabling direct payment transfers between friends without requiring invoices.
+- Mutiny Wallet v0.6.2: Federated Lightning Addresses for Mutiny+ Users [Mutiny Blog](https://blog.mutinywallet.com/federated-lightning-addresses-for-mutiny-users/)
+ - Mutiny Wallet introduces Federated Lightning Addresses for Mutiny+ users, enabling direct payment transfers between friends without requiring invoices.
  - Inspired by Kody Low's Hermes project, the new feature utilizes ecash tied to a public key, ensuring secure transactions even when offline.
  - The wallet listens for DM messages on Nostr and automatically unlocks tokens upon receipt, maintaining privacy through blinded authentication tokens.
 - Liana v5.0: Coldcard & Experimental Taproot Support [Github](https://github.com/wizardsardine/liana/releases/tag/v5.0)
@@ -112,6 +119,12 @@ Title: Freedom Tech Wrap - Episode 14
  - Citadel v0.3.5 introduces the ability to switch between Bitcoin Core and Bitcoin Knots as the primary wallet software.
  - Includes several bug fixes and application updates.
  - Celebrates one year anniversary of Nirvati announcement, promising more news on the project soon.
+- PayPerQ: ChatGPT4 Pay-per-Query Over Lightning Service [Twitter Announcement](https://twitter.com/MattAhlborg/status/1772274388420706451)
+ - PayPerQ is a pay-per-query Chatbot that leverages OpenAI's API and Bitcoin to bring premium tier AI to more people around the world.
+ - Leverages OpenAI's API and Bitcoin micropayments
+ - Offers a pay-per-query ChatGPT4 experience
+ - Makes GPT4 accessible to users without a full subscription or linked credit card
+ - Provides a cost-effective alternative for frequent users
 
 
 ### Geyser Project Weekly Leaderboard
