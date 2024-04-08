@@ -81,7 +81,10 @@ Title: Freedom Tech Wrap - Episode 14
  - Mutiny Wallet v0.6.1 introduces a new home screen design focused on social interactions and easy access to recent profiles.
  - A nostr-based profile setup walkthrough has been added, allowing users to create or import nostr profiles for direct messaging and transactions within the app.
  - Federation discovery and recommendations have been integrated, enabling users to find and join suitable fedimints using an open protocol powered by nostr.
- - An upcoming feature includes federated lightning addresses that lock incoming payments to a specific key, providing enhanced security and control over funds.
+- Mutiny Wallet v0.6.2: Federated Lightning Addresses for Mutiny+ Users
+ - Mutiny Wallet introduces Lightning Addresses for Mutiny+ users, enabling direct payment transfers between friends without requiring invoices.
+ - Inspired by Kody Low's Hermes project, the new feature utilizes ecash tied to a public key, ensuring secure transactions even when offline.
+ - The wallet listens for DM messages on Nostr and automatically unlocks tokens upon receipt, maintaining privacy through blinded authentication tokens.
 - Liana v5.0: Coldcard & Experimental Taproot Support [Github](https://github.com/wizardsardine/liana/releases/tag/v5.0)
  - Liana v5.0 introduces support for the Coldcard signing device and experimental Taproot functionality.
  - Users can now try Liana with their Coldcard using the Edge firmware, promoting testing of Miniscript implementations.
