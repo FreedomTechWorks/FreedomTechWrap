@@ -111,6 +111,12 @@ Title: Freedom Tech Wrap - Episode 14
  - Introduced Nostr DVM feature allowing users to summarize text inputs using the Mistral 7B model. Additional models and request types will be added later.
  - Enabled starting chats directly with data sources from the "Files and Data Sources" table through the three dots menu option.
  - Implemented minor bug fixes to improve overall performance and stability.
+- Unleashed.chat v0.1.20: [NOSTR Announcement](https://primal.net/e/note134knqrn79u86cm6rev2jrfh33xwse42fcte9v6luqffqza640ufsq5cfz3)
+ - Nostr mode improvements:
+  - Ask “What’s happening on my feed today?” The AI can now access recent posts by people you follow. You need to have Nostr login enabled for this to work. If you have an existing account, go to the Account page (left side menu) and connect your npub there.
+  - You’ll see some prompt suggestions when you start a new chat in Nostr mode.
+ - Other:
+  - AI generated code blocks now have a button for copying their contents to the clipboard.
 - RoninUI v2.5.0: New Troubleshooting Page, Enhanced Whirlpool UI [Ronin Blog](https://blog.ronindojo.io/roninui-update-v2-5-0/)
  - Added a new Troubleshooting page featuring options to delete corrupted databases and clear Docker build caches.
  - Improved Whirlpool UI functionality, including pagination for large UTXO sets, hiding/showing non-mixable UTXOs, and adding a Mix History view for recent mixes.
@@ -125,6 +131,16 @@ Title: Freedom Tech Wrap - Episode 14
  - Offers a pay-per-query ChatGPT4 experience
  - Makes GPT4 accessible to users without a full subscription or linked credit card
  - Provides a cost-effective alternative for frequent users
+-LoLRa project: Transmitting LoRa packets without radio [Github](https://github.com/cnlohr/lolra/tree/master)
+- Enables data transmission without a Semtech radio, using microcontrollers with I2S or SPI interfaces.
+- Operates with two major modes: transmission using a tunable PLL and direct synthesis on a bitstream.
+- Uses harmonics and aliasing, advising caution due to potential RF spectrum bans and FCC compliance issues.
+
+Enables data transmission without a Semtech radio, using microcontrollers with I2S or SPI interfaces.
+
+Operates with two major modes: transmission using a tunable PLL and direct synthesis on a bitstream.
+
+Uses harmonics and aliasing, advising caution due to potential RF spectrum bans and FCC compliance issues.
 
 
 ### Geyser Project Weekly Leaderboard
