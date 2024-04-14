@@ -25,6 +25,30 @@ Title: Freedom Tech Wrap - Episode 15
  - The U.S. House of Representatives has passed a two-year extension of Section 702 of the Foreign Intelligence Surveillance Act (FISA 702), a controversial warrantless spying authority.
  - Critical reforms aimed at stopping the abuse of the law were rejected during the voting process.
  - The bill now moves to the Senate, where it requires passage before an April 19th deadline; opponents argue against the need for a rush and emphasize the importance of getting it right in the Senate.
+- OpenSats Announces Long-Term Support for PabloF7z
+ - Pablo has contributed significantly to various Nostr projects such as nsecBunker, Nostr Development Kit (NDK), Shipyard, Highlighter, and Wikifreedia.
+ - With the support from OpenSats, Pablo plans to focus on developing niche relays, improving event database synchronization, enhancing localized flows, promoting client discoverability, and maintaining/extending NDK.
+ - Donations to The Nostr Fund help sustain the LTS program and support key contributors like PabloF7z
+- Mi Primer Bitcoin Student workbook release [Github](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2024)
+ - Mi Primer Bitcoin released its 2024 edition of the student workbook, a comprehensive 10-week Bitcoin education curriculum available for free and under an open-source license.
+ - The curriculum covers Bitcoin's history, technology, and global impact, aiming to educate people about the benefits of using Bitcoin.
+ - In 2022, the workbook was taught to 38 public school teachers in El Salvador, and now supports over 25 educational projects across 15 countries through their decentralized and self-governed node network.
+ - Mi Primer Bitcoin encourages users to contribute by becoming translation maintainers, joining the movement, applying to become a node in their network, and donating to support their cause
+- Atlanta 2022 CoreDev Event Probed by the FBI [Block Article](https://www.theblock.co/post/287939/fbi-luke-dashjr-btc-hack)
+ - The FBI investigated Bitcoin developers who attended the CoreDev Atlanta event in October 2022 as part of an investigation into the theft of over 200 BTC from developer Luke Dashjr.
+ - Mike Schmidt, co-founder and director at Brink, a non-profit organization supporting open-source Bitcoin developers, revealed receiving a subpoena from the FBI seeking information about attendees of the event.
+ - The requested information included GitHub usernames, public first and last names, and email addresses of developers and some guests.
+ - An order from the FBI prevented Schmidt from disclosing the subpoena for a year; however, he recently informed attendees about the incident.
+- Paraguay Reconsiders Mining Ban In Favor of Selling Excess Energy to Bitcoin Miners [No Bullshit Bitcoin](https://twitter.com/SalynBuzarquis/status/1778162642663666078?ref=nobsbitcoin.com)
+ - Paraguay's recent proposal to ban bitcoin mining has been postponed for 30 days while lawmakers consider selling excess energy to miners.
+ - Senators believe selling surplus energy to miners would generate revenue rather than selling it cheaply to neighboring countries like Brazil and Argentina.
+ - A public hearing will take place on April 23rd to discuss the pros and cons of Bitcoin mining in Paraguay.
+ - "Experts" estimate banning Bitcoin mining could cost Paraguay around $200 million annually
+- Database Containing Personal Information of 5.1 Million Salvadoran Citizens Leaked
+ - A threat actor leaked a database containing personal information and photos of 5.1 million Salvadoran citizens in El Salvador.
+ - The leaked data included high-definition photos, identification document numbers, names, dates of birth, contact details, and residential addresses.
+ - Initially available for purchase at $250, the hacker released the information for free after not receiving payment.
+ - La Prensa Gráfica, a prominent Salvadoran newspaper, reported on the incident before deleting the article.
 
 
 ### ANNOUNCEMENT
@@ -34,12 +58,33 @@ Title: Freedom Tech Wrap - Episode 15
  - Of course you can pay with sats over lightning, and you can also use promo code FREEDOMTECH for 10% off your order.
 
 
-
 ### Events
+- bitcoin++ Austin
+ - bitcoin++ is an international bitcoin developer conference focusing on advanced topics related to bitcoin protocols and development.
+ - The event will take place at the Palmer Events Center in Austin, Texas from May 1st to May 4th.
+ - Attendees can expect engaging discussions and presentations on various aspects of bitcoin script.
 
 
 ### Articles 
+- DOGMA KILLS BRAIN CELLS by Shinobi [Bitcoin Magazine](https://bitcoinmagazine.com/culture/dogma-kills-brain-cells)
+- The article asserts - 
+- Dogmatic beliefs are necessary foundations for communities and cultures, but they often lead to stagnation and dissent.
+- As dogma fractures, it tends to reinforce the existing dogma within those who remain while creating multiple conflicting ideologies alongside it.
+- The Protestant Reformation led to a proliferation of various conflicting ideologies rather than destroying the Catholic Church.
+- Dissent breeds further dissent, leading to the formation of numerous conflicting dogmas instead of a single dominant one.
+- New dogmas tend to define themselves primarily by their opposition to existing ones, which makes them vulnerable to losing their identity if the opposing dogma is defeated.
+- For a movement or culture to create a lasting impact, it must have a solid foundation of identity that can exist independently of opposition.
 
+
+### Stacker News Spotlight 
+- Vlad, founder and CEO of KAGI AMA [Stacker News AMA](https://stacker.news/items/502409)
+ - Vlad, founder and CEO of KAGI conducted a Stacker News AMA last thursday in which he exclaimed -
+- "In the last two years Kagi made more innovation in the search experience than legacy search engines did in two decades. We are able to do that because on Kagi, users and customers are the same.
+- On legacy search engines, customers are advertisers and inevitably the design of the search experience is geared towards them which is the reason it has deteriorate so much in the last two decades.
+- With Kagi, customers will always get the best search results we can produce and they are often much better than on other search engines including Google because they have different incentives (keep you searching, so that as many ads are displayed).
+- Kagi offers Kagi Search, a unique, ad-free, privacy-respecting search engine powered by subscriptions and accepting Bitcoin Lightning payments.
+- Other projects include the Orion Browser, Kagi Small Web, and AI tools like FastGPT and Universal Summarizer.
+- Kagi's approach encourages continuous improvement based on user satisfaction and feedback.
 
 
 ### Software Releases & Project Updates
@@ -57,8 +102,26 @@ Title: Freedom Tech Wrap - Episode 15
  - Faster initial server connections through optimized fee rate fetching
  - Easier restart of Sparrow Wallet in a different home folder via Tools menu
  - Additional features such as hyperlinks, SeedQR display, and seed retention during wallet changes
+- Blockstream Green Android v4.0.27, iOS v4.0.26, Desktop v2.0.3 
+ - The updates include various improvements such as added features like push notifications for Lightning payments, import/export of liquid accounts, and enhanced security options.
+ - Additionally, there have been bug fixes and changes made to improve overall performance and user experience.
+ - The release aims at providing a more seamless and secure experience for users.
+- Phoenix Wallet v2.2.2: Updated Fee Estimation for On-The-Fly Channel
+ - this update introduces an change to fee estimation for on-the-fly channels, making it more accurate and consistent with other methods.
+ - The wallet now allows users to import localized seeds in English, French, Spanish, and Czech languages, although using non-English seeds is considered experimental.
+ - Improved background reception payment functionality increases the likelihood of successful transactions even when the app is running in the background.
+ - Phoenixd v1.4, the server counterpart of the Phoenix wallet, has also been released alongside the wallet update.
+- Bisq v1.9.15 [Github](https://github.com/bisq-network/bisq/releases/tag/v1.9.15)
+ - this update includes bug fixes and improvements for its decentralized bitcoin P2P exchange network.
+ - Offers that get disabled now provide reasons for their disablement.
+ - Additional currency options were added to Wise, and new account holders must provide a name.
+ - Similar requirements for Pix and MoneyBeam accounts were implemented.
+ - Users can now mediate failed or closed trades.
+ - A new BSQ market cap chart has been added.
+ - Bisq 2 beta is available for testing separately from Bisq 1 without any issues.
+- Boltz Backend v3.5.0 & Boltz Web App v1.3.2 Released [Github](https://github.com/BoltzExchange/boltz-backend/releases/tag/v3.5.0)
+ - This release features a WebSocket API to subscribe to swap status updates and miscellaneous fixes and quality of life improvements for Taproot Swaps
  
-
 
 ### Geyser Spotlight 
 - African Bitcoin Community Builders
@@ -67,7 +130,6 @@ Title: Freedom Tech Wrap - Episode 15
  - Contributions are directly used to empower these community builders, enhancing Bitcoin's influence in these regions.
  - The campaign will start in five key countries: Nigeria, Ghana, Kenya, South Africa, and Zimbabwe.
  - To support the project you visit their geyser page or zap their lightning address at africanbitcoincommunitybuilders@geyser.fund
-
 
 
 ### Outro 
