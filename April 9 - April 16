@@ -172,6 +172,10 @@ Title: Freedom Tech Wrap - Episode 15
    - Satoshi 7B is an open-source Bitcoin-centric large language model released by the Spirit of Satoshi team.
    - Fine-tuned on a Q&A dataset covering Bitcoin principles, technology, culture, Austrian economics, and non-woke politics.
    - Intended for use as a Bitcoin education, culture, and economics assistant.
+  - Ollama v0.1.32 [Github](https://github.com/ollama/ollama/releases/tag/v0.1.31)
+   - release introduces improved VRAM utilization and reduced out-of-memory errors.
+   - New models added include Mixtral 8x22b and WizardLM 2.
+   - Enhanced GPU utilization leads to better performance when running larger models.
 
 
 ### Geyser Spotlight 
