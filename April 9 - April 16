@@ -19,16 +19,11 @@ Title: Freedom Tech Wrap - Episode 15
   - @thewildhustle (200)
   
 
-
 ### News
 - Patriot Act v2.0: US House Passes FISA 702 Surveillance Expansion 'Reform'
  - The U.S. House of Representatives has passed a two-year extension of Section 702 of the Foreign Intelligence Surveillance Act (FISA 702), a controversial warrantless spying authority.
  - Critical reforms aimed at stopping the abuse of the law were rejected during the voting process.
  - The bill now moves to the Senate, where it requires passage before an April 19th deadline; opponents argue against the need for a rush and emphasize the importance of getting it right in the Senate.
-- OpenSats Announces Long-Term Support for PabloF7z
- - Pablo has contributed significantly to various Nostr projects such as nsecBunker, Nostr Development Kit (NDK), Shipyard, Highlighter, and Wikifreedia.
- - With the support from OpenSats, Pablo plans to focus on developing niche relays, improving event database synchronization, enhancing localized flows, promoting client discoverability, and maintaining/extending NDK.
- - Donations to The Nostr Fund help sustain the LTS program and support key contributors like PabloF7z
 - Mi Primer Bitcoin Student workbook release [Github](https://github.com/MyFirstBitcoin/Bitcoin-Diploma-2024)
  - Mi Primer Bitcoin released its 2024 edition of the student workbook, a comprehensive 10-week Bitcoin education curriculum available for free and under an open-source license.
  - The curriculum covers Bitcoin's history, technology, and global impact, aiming to educate people about the benefits of using Bitcoin.
@@ -49,6 +44,18 @@ Title: Freedom Tech Wrap - Episode 15
  - The leaked data included high-definition photos, identification document numbers, names, dates of birth, contact details, and residential addresses.
  - Initially available for purchase at $250, the hacker released the information for free after not receiving payment.
  - La Prensa Gráfica, a prominent Salvadoran newspaper, reported on the incident before deleting the article.
+
+
+### Grants 
+- OpenSats Announces Long-Term Support for PabloF7z
+ - Pablo has contributed significantly to various Nostr projects such as nsecBunker, Nostr Development Kit (NDK), Shipyard, Highlighter, and Wikifreedia.
+ - With the support from OpenSats, Pablo plans to focus on developing niche relays, improving event database synchronization, enhancing localized flows, promoting client discoverability, and maintaining/extending NDK.
+ - Donations to The Nostr Fund help sustain the LTS program and support key contributors like PabloF7z
+- OpenSats announces long-term support for hrzd149
+ - Long-term support granted to hrzd149: Recognition and financial backing for his contributions to the Nostr ecosystem.
+ - Creator of noStrudel: Fast web-based Nostr client for exploring the protocol.
+ - Developer of Blossom: Simplifies file storage and organization in the Nostr network.
+ - Ongoing development supported: Continued work on noStrudel and Blossom, including added features and functionalities.
 
 
 ### Events
@@ -208,7 +215,8 @@ Highlights for me this week
 - Nos.Social + Highlighter + Cypherspace + Mash + Stacker News + Fountain + Sats4AI + Geyser is a deadly combination 
 - Didnt know if you wanted the Saylor Odell controversy in there, apparantly Cathy Woods was about to donate a portion of the etf profits to opensats but Michael Saylor told her "If you do that I'll destroy you"....
 
-6 News Items 
+5 News Items
+2 Grants
 1 Announcement 
 1 Event 
 2 Articles 
