@@ -51,13 +51,6 @@ Title: Freedom Tech Wrap - Episode 15
  - La Prensa Gráfica, a prominent Salvadoran newspaper, reported on the incident before deleting the article.
 
 
-### ANNOUNCEMENT
-- Attention Freedom Tech Wrap Podcast Listeners! The Freedom Tech Wrap Podcast has partnered with Liberty Under Attack Publications.
- - Liberty Under Attack offers a range of books and audiobooks on topics surrounding privacy, freedom, and anarchy.
- - You can find out more about Liberty Under attack by visiting https://libertyunderattack.com/
- - Of course you can pay with sats over lightning, and you can also use promo code FREEDOMTECH for 10% off your order.
-
-
 ### Events
 - bitcoin++ Austin
  - bitcoin++ is an international bitcoin developer conference focusing on advanced topics related to bitcoin protocols and development.
@@ -104,6 +97,11 @@ Title: Freedom Tech Wrap - Episode 15
    - Faster initial server connections through optimized fee rate fetching
    - Easier restart of Sparrow Wallet in a different home folder via Tools menu
    - Additional features such as hyperlinks, SeedQR display, and seed retention during wallet changes
+  - Wasabi Wallet v2.0.7 [Github](https://github.com/zkSNACKs/WalletWasabi/releases/tag/v2.0.7)
+   - Completely new interface: Overhauled design with improved user experience and enhanced privacy features.
+   - Hardware wallet support: Added support for Trezor Safe 3, providing increased security options for users.
+   - Improved Full RBF accuracy: Enhanced defense against double spending attacks through more precise monitoring of unconfirmed transactions.
+   - Better privacy warnings: Detailed information provided to help users avoid creating change outputs and maintain privacy.
   - Blockstream Green Android v4.0.27, iOS v4.0.26, Desktop v2.0.3 
    - The updates include various improvements such as added features like push notifications for Lightning payments, import/export of liquid accounts, and enhanced security options.
    - Additionally, there have been bug fixes and changes made to improve overall performance and user experience.
@@ -215,7 +213,14 @@ Highlights for me this week
 1 Event 
 2 Articles 
 1 Stacker News Spotlight 
-15 Project updates 
+16 Project Updates 
 1 Geyser Spotlight 
+
+Promotion Draft 
+### ANNOUNCEMENT
+- Attention Freedom Tech Wrap Podcast Listeners! The Freedom Tech Wrap Podcast has partnered with Liberty Under Attack Publications.
+ - Liberty Under Attack offers a range of books and audiobooks on topics surrounding privacy, freedom, and anarchy.
+ - You can find out more about Liberty Under attack by visiting https://libertyunderattack.com/
+ - Of course you can pay with sats over lightning, and you can also use promo code FREEDOMTECH for 10% off your order.
 
 
