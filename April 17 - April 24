@@ -27,11 +27,20 @@ Title: Freedom Tech Wrap - Episode 16
 
 
 ### Grants 
-
+- OpenSats Receives $1M Donation From The Reynolds Foundation [Blogpost](https://opensats.org/blog/opensats-receives-one-million-from-reynolds-foundation)
+ - OpenSats receives a $1 million donation from The Reynolds Foundation to support free and open source freedom tech projects.
+ - Funds will exclusively go towards supporting open-source projects and contributors.
+ - Operational budget is separate, ensuring no cuts from donations.
+ - The Reynolds Foundation encourages other philanthropists to contribute to OpenSats' mission.
 
 
 ### Events
 India Bitcoin Conference 2024 To Take Place on September 20-22 in Goa
+- Africa Bitcoin Conference 2024 to Take Place on December 9-11 in Nairobi, Kenya [Twitter Announcement](https://twitter.com/AfroBitcoinOrg/status/1777371892527116341)
+ - Third edition of the Africa Bitcoin Conference set to take place in Nairobi, Kenya from December 9-11, 2024.
+ - Event aims to bring together thought leaders, innovators, policymakers, and developers to discuss Bitcoin's role in Africa.
+ - Partnership with bTrust Builders includes organizing a hackathon, workshops, and scholarships for young African developers.
+ - For more details, visit afrobitcoin.org.
 
 
 ### Articles 
@@ -40,21 +49,37 @@ India Bitcoin Conference 2024 To Take Place on September 20-22 in Goa
 ### Software Releases & Project Updates
 
   ## Bitcoin 
-Bitcoin Core v27.0: BIP324 v2 Transport On by Default, New mempool.dat Format & More
-Labelbase v2.1.0: Introducing Attachments
-Wasabi Wallet v2.0.7.1: New Interface, Trezor 3 Support, Full RBF Detection
-Phoenix Wallet iOS v2.2.4: Swap-in Failures Fix
-Mutiny Wallet v0.6.5: Atlantis Federation Fix
-UmbrelOS v1.1.0: Terminal, Beta Program, UX Improvements & Bug Fixes
-RaspiBlitz v1.11.0: Enabling NVMe PCIe Hats, New Documentation & More
-Unleashed.Chat v0.1.20: Nostr Feed Queries
-BlueWallet v6.6.2: UI Improvements & Bug Fixes
-Bitcoin Keeper v1.2.3: Fee Insights, Multiple Mediums for Signers, Hide & Delete Wallets
-tbDEX v1.0: Open Source Liquidity and Trust Protocol
-Cashu Nutshell v0.15.3: Improved Mint Crash Resistance
-nix-bitcoin-0.0.106
+- Bitcoin Core v27.0: BIP324 v2 Transport On by Default, New mempool.dat Format & More
+- Labelbase v2.1.0: Introducing Attachments
+- Wasabi Wallet v2.0.7.1: New Interface, Trezor 3 Support, Full RBF Detection
+- Phoenix Wallet iOS v2.2.4: Swap-in Failures Fix
+- Mutiny Wallet v0.6.5: Atlantis Federation Fix
+- UmbrelOS v1.1.0: Terminal, Beta Program, UX Improvements & Bug Fixes
+- RaspiBlitz v1.11.0: Enabling NVMe PCIe Hats, New Documentation & More
+- Unleashed.Chat v0.1.20: Nostr Feed Queries
+- BlueWallet v6.6.2: UI Improvements & Bug Fixes
+- Bitcoin Keeper v1.2.3: Fee Insights, Multiple Mediums for Signers, Hide & Delete Wallets
+- tbDEX v1.0: Open Source Liquidity and Trust Protocol
+- Cashu Nutshell v0.15.3: Improved Mint Crash Resistance
+- nix-bitcoin-0.0.106
+- Aqua Wallet v0.1.50: Send to LNURL Pay & Lightning Addresses, BIP21 Unified QR Support
+ - Aqua Wallet v0.1.50 introduces support for sending to LNURL Pay and Lightning addresses, as well as BIP21 unified QR codes.
+ - Reworked send workflow and added automatic refund and claim transactions with submarine swaps.
+ - Improved restore wallet workflow and enabled biometric authentication.
+ - Added support for AQUA to AQUA lightning payments and removed USDt as a default asset.
   
   ## Nostr
+- Gossip v0.10.0: Nostr Connect Signer, Whitelist Support for Relays, SpamSafe [Github](https://github.com/mikedilger/gossip/releases/tag/v0.10.0)
+ - Nostr Connect Signer: Gossip now serves as a private key vault using NIP-46.
+ - Whitelist support for relays: Optional feature allows users to control relay connections for enhanced privacy.
+ - SpamSafe: Prevents loading replies from non-followed accounts unless designated as SpamSafe relays.
+ - Improved performance and features: Updates include better handling of errors, improved UI, and additional options for customizing the experience.
+- Blossom Drive: Store & Retrieve Data on Public Servers Using sha256 Universal ID [Github](https://github.com/hzrd149/blossom)
+ - Blossom Drive uses SHA256 universal IDs to address binary data stored on public servers via HTTP endpoints.
+ - Allows users to store and retrieve binary data without naming conventions, providing flexibility and security.
+ - Identity systems enable ownership of files, enabling better organization and management of data.
+ - Blossom Drive is a Nostr application utilizing Blossom servers, allowing users to create and manage folders of blobs.
+
  
 
   
@@ -84,28 +109,8 @@ nix-bitcoin-0.0.106
 
 ______________________________________________________________________________________________________________________________________________________
 
-Hey Marc, 
 
-Highlights for me this week 
-- Liberty under attack partnership
-- Convo with the guy from PPQ.AI
-- Kagi search, checkout the AMA and the search engine, the thing is pretty slick.
-- Nos.Social + Highlighter + Cypherspace + Mash + Stacker News + Fountain + Sats4AI + Geyser is a deadly combination 
-- Didnt know if you wanted the Saylor Odell controversy in there, apparantly Cathy Woods was about to donate a portion of the etf profits to opensats but Michael Saylor told her "If you do that I'll destroy you"....
 
-5 News Items
-2 Grants
-1 Announcement 
-1 Event 
-2 Articles 
-1 Stacker News Spotlight 
-16 Project Updates 
-1 Geyser Spotlight 
 
-Promotion Draft 
-### ANNOUNCEMENT
-- Attention Freedom Tech Wrap Podcast Listeners! The Freedom Tech Wrap Podcast has partnered with Liberty Under Attack Publications.
- - Liberty Under Attack offers a range of books and audiobooks on topics surrounding privacy, freedom, and anarchy.
- - You can find out more about Liberty Under attack by visiting https://libertyunderattack.com/
- - Of course you can pay with sats over lightning, and you can also use promo code FREEDOMTECH for 10% off your order.
+
 
