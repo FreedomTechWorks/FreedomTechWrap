@@ -32,7 +32,7 @@ Title: Freedom Tech Wrap - Episode 16
 
 
 ### Grants 
-- OpenSats Receives $1M Donation From The Reynolds Foundation [Blogpost](https://opensats.org/blog/opensats-receives-one-million-from-reynolds-foundation)
+- OpenSats Receives a $1M Donation [Blogpost](https://opensats.org/blog/opensats-receives-one-million-from-reynolds-foundation)
  - OpenSats receives a $1 million donation from The Reynolds Foundation to support free and open source freedom tech projects.
  - Funds will exclusively go towards supporting open-source projects and contributors.
  - Operational budget is separate, ensuring no cuts from donations.
@@ -67,7 +67,11 @@ Title: Freedom Tech Wrap - Episode 16
  - Other enhancements include better handling of empty settings.json files, faster pruning during initial block download, and improved init functionality.
  - A C++20 compatible compiler is now required to build Bitcoin Core, while MacOS releases have been configured to use hardened runtime libraries.
  - Support for external signing on Windows has been temporarily disabled due to dependencies needing replacement.
-- Labelbase v2.1.0: Introducing Attachments
+- Labelbase v2.1.0: Introducing Attachments [Github](https://github.com/Labelbase/Labelbase/releases/tag/2.1.0)
+ - New Feature: Attachments: Labelbase v2.1.0 introduces the ability to attach files and images to labels, enhancing the platform's functionality and organization capabilities.
+ - PDF and Image Viewer Integration: Users can now preview attached documents and images without leaving the application.
+ - Background Task Activity Indicator: During verification processes using Electrum, users will see an activity indicator, providing better feedback on ongoing tasks.
+ - Custom Electrum Config for Testnet Labelbases: Self-hosted Labelbase instances now support custom configurations for test networks, improving flexibility and compatibility.
 - Wasabi Wallet v2.0.7.1: New Interface, Trezor 3 Support, Full RBF Detection [Github](https://github.com/zkSNACKs/WalletWasabi/releases)
  - Comprehensive Redesign: Wasabi Wallet v2.0.7.1 features a completely revamped user interface, including changes to colors, transaction history tables, menus, and icons.
  - Trezor Safe 3 Support: The wallet now supports the latest Trezor Safe 3 hardware device, providing enhanced security through its secure element protection, open-source design, and on-device transaction confirmations.
@@ -76,15 +80,51 @@ Title: Freedom Tech Wrap - Episode 16
 - Phoenix Wallet iOS v2.2.4: Swap-in Failures Fix [Github](https://github.com/ACINQ/phoenix/releases/tag/ios-v2.2.4)
  - Swap-In Failure Resolution: Phoenix Wallet iOS v2.2.4 addresses a regression bug that previously led to swaps getting stuck due to swap-in failures.
  - User Interface Stabilization: The update resolves issues causing the app's user interface to become frozen and unresponsive in certain situations.
-- Mutiny Wallet v0.6.5: Atlantis Federation Fix
-- UmbrelOS v1.1.0: Terminal, Beta Program, UX Improvements & Bug Fixes
-- RaspiBlitz v1.11.0: Enabling NVMe PCIe Hats, New Documentation & More
-- Unleashed.Chat v0.1.20: Nostr Feed Queries
-- BlueWallet v6.6.2: UI Improvements & Bug Fixes
-- Bitcoin Keeper v1.2.3: Fee Insights, Multiple Mediums for Signers, Hide & Delete Wallets
+- Mutiny Wallet v0.6.5: Atlantis Federation Fix [Github](https://github.com/MutinyWallet/mutiny-node/releases)
+ - Atlantis Federation Issue Resolution: Mutiny Wallet v0.6.5 addresses a problem related to the Bitcoin Atlantis federation, fixing an existing bug.
+ - Improved Fedimint Integration: The latest release focuses on optimizing the wallet's performance within the Fedimint ecosystem, despite current fee and scaling challenges.
+ - Enhanced Node Functionality: Version 0.6.5 includes various improvements such as tests for new Nostr features, removal of unused WASM functions, and updating the bitcoin price fetching mechanism.
+ - Bug Fixes and Optimizations: Additional changes include safer handling of invalid NWC events, improved setup for new profiles, and log generation during certain actions like pruning monitors or changing Hermes addresses.
+- UmbrelOS v1.1.0: Terminal, Beta Program, UX Improvements & Bug Fixes [Github](https://github.com/getumbrel/umbrel/releases/tag/1.1.0)
+ - Introduction of Terminal Access: UmbrelOS v1.1.0 introduces terminal capabilities, allowing users to execute custom commands either within the operating system or specific applications through advanced settings.
+ - Launch of Beta Program: A beta program has been introduced, enabling users to enroll and receive early access to upcoming features while offering valuable feedback to improve these additions.
+ - App Management Enhancements: Updates allow users to start, stop, and troubleshoot apps more efficiently via their respective right-click menus on the home screen. Additionally, the display of app update progress within each application's icon simplifies monitoring ongoing updates.
+ - General Bug Fixes and Improvements: This release also incorporates various bug fixes and general enhancements aimed at improving overall usability and stability.
+- RaspiBlitz v1.11.0: Enabling NVMe PCIe Hats, New Documentation & More [Github](https://github.com/raspiblitz/raspiblitz/releases/tag/v1.11.0)
+ - Support for NVMe PCIe Hats: RaspiBlitz v1.11.0 enables compatibility with Raspberry Pi 4 and 5 devices equipped with NVMe PCIe drives, providing faster storage performance.
+ - New Documentation: The latest version includes updated documentation covering various aspects such as BTCPay Server PostgreSQL database backups, resetting self-signed TLS certificates, and using the Electrum Connect screen on the web interface.
+ - Software Updates: Version 1.11.0 features several software updates including Bitcoin Core 26.0, LND 0.17.3, Core Lightning 24.02.1, and LNbits 0.11.3.
+ - Deprecations and Removals: Some components have been deprecated or removed due to lack of maintenance or developer consensus, such as Homer Dashboard, Bitcoinminds, and ItchySats.
+- Unleashed.Chat v0.1.20: Nostr Feed Queries [Announcement](https://njump.me/nevent1qqsg6mfspelz7ravdapuk9fp5mccn8gv64yu9ujkd07qy5spwa2h7ycpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgq3q7304velluajf6lylvjynpj2f3ndg396w063gj2gef5qk0nwtcyjq86z3c0)
+ - Introduction of Nostr Feed Query Functionality: Users can now ask "What's happening on my feed today?" to receive information about recent posts made by individuals they are following on Nostr.
+ - Enhanced Privacy Features: To utilize the Nostr feed query feature, users must enable Nostr login within their account settings.
+ - Improved User Experience: When initiating a new chat session in Nostr mode, prompts suggesting relevant images are provided to enhance conversation quality. Additionally, AI-generated code blocks now include a button that allows users to easily copy the content to their clipboards.
+ - Continued Development: This release marks another step towards improving the overall functionality and usability of Unleashed Chat, ensuring it remains at the forefront of AI-powered communication platforms.
+- BlueWallet v6.6.2: UI Improvements & Bug Fixes [Github](https://github.com/BlueWallet/BlueWallet/releases)
+ - Animation Addition: BlueWallet v6.6.2 introduces a slide-up animation for the float button, enhancing the app's visual appeal and interactivity.
+ - UI Improvements: Several issues related to the appearance and functionality of different screens within the application have been addressed, resulting in a more polished and consistent user experience.
+ - Cancellation Option for Reminders: Users can now cancel reminders if they change their minds before making a decision, offering greater flexibility and control over the app's features.
+ - Security and Performance Optimizations: Various bug fixes and improvements have been implemented across multiple versions, addressing issues like disabling buttons when menus are visible, fixing carousel heights on Android devices, and resolving bio unlock issues.
+- Bitcoin Keeper v1.2.3: Fee Insights, Multiple Mediums for Signers, Hide & Delete Wallets 
+ - Fee Insight Feature: Bitcoin Keeper v1.2.3 includes fee insights with detailed analysis, providing users with valuable information to make informed decisions regarding transaction fees.
+ - Support for Multiple Mediums: The latest version enables users to choose from various mediums when signing transactions, allowing them to select the most convenient method based on their preferences and circumstances.
+ - Hiding and Deletion Options: Users now have the ability to hide or delete specific wallets or vaults as needed, giving them greater control over their digital assets management process.
+ - General Improvements and Bug Fixes: In addition to these key features, the update incorporates several bug fixes and performance enhancements aimed at optimizing the overall user experience.
 - tbDEX v1.0: Open Source Liquidity and Trust Protocol
+ - Introduction of tbDEX v1.0: This release marks the debut of tbDEX, an open-source liquidity and trust protocol designed to facilitate seamless connections between liquidity seekers and providers while ensuring security through the utilization of decentralized technologies like DIDs and VCs.
+ - Permissionless Network: As an open-source platform, tbDEX encourages widespread adoption and development without requiring approval from central authorities.
+ - Key Features for Financial Institutions: tbDEX offers tools that allow institutions to specify their supported currency pairs, payment methods, and required customer credentials. Additionally, they can receive real-time quotes, initiate exchanges, and monitor order statuses.
+ - Functionality for Wallets: Wallet applications can leverage tbDEX to obtain service offerings from financial institutions, initiate exchanges, present verifiable credentials, receive real-time quotes, manage orders, and cancel transactions as necessary. For issuers, tbDEX provides capabilities to create DIDs, issue verifiable credentials, and verify credential authenticity.
 - Cashu Nutshell v0.15.3: Improved Mint Crash Resistance
+ - Enhanced Mint Crash Resistance: The latest version of Cashu Nutshell introduces improvements to handle crashes during outgoing Lightning payments, automatically picking up affected transactions and invalidating any related proofs.
+ - Support for Checking Pending Invoices: Users can now utilize the "cashu invoices" command to review outstanding invoices within the application.
+ - Expanded Wallet Recovery Options: With the addition of the "cashu restore" command, users can now restore ecash funds across multiple keysets belonging to a single mint.
+ - Mint Refactoring: A significant refactoring effort has taken place to improve the overall structure and functionality of the mint feature within the wallet.
 - nix-bitcoin-0.0.106
+ - Updated Dependencies: Several dependencies have been updated in Nix Bitcoin v0.0.106, including BTCPayServer (v1.12.5 to v1.13.1), CLightning (v24.02.1 to v24.02.2), HWI (v2.4.0 to v3.0.0), and NBXPlorer (v2.5.0 to v2.5.2).
+ - Removal of Unmaintained Plugins: Three plugins - helpme, prometheus, and summary - have been removed due to lack of maintenance and support.
+ - No Major Changes: There were no significant additions or modifications made to the core features or functionalities of Nix Bitcoin in this release.
+ - Continued Experimental Status: As mentioned earlier, nix-bitcoin remains an experimental project, emphasizing the importance of caution when deploying it in production environments
 - Aqua Wallet v0.1.50: Send to LNURL Pay & Lightning Addresses, BIP21 Unified QR Support
  - Aqua Wallet v0.1.50 introduces support for sending to LNURL Pay and Lightning addresses, as well as BIP21 unified QR codes.
  - Reworked send workflow and added automatic refund and claim transactions with submarine swaps.
