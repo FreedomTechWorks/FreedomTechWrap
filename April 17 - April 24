@@ -17,6 +17,11 @@ Title: Freedom Tech Wrap - Episode 16
  
 
 ### News
+- Samourai Wallet Founders Arrested & Charged with Money Laundering, Unlicensed Money Transmitting Offenses [Github](https://www.justice.gov/usao-sdny/pr/founders-and-ceo-cryptocurrency-mixing-service-arrested-and-charged-money-laundering)
+ - Samourai Wallet founders arrested and charged with money laundering and unlicensed money transmission offenses.
+ - The US Department of Justice claims Samourai Wallet laundered over $100 million in criminal proceeds.
+ - Samourai's web servers and domain were seized, and their mobile app removed from the Google Play Store in the US.
+ - Founders Keonne Rodriguez and William Lonergan Hill face up to 20 years and five years in prison if convicted.
 - Biden Signs Reauthorization of Expanded FISA 702 Warrantless Surveillance Program After It Passes Senate [NPR Article](https://www.npr.org/2024/04/20/1246076114/senate-passes-reauthorization-surveillance-program-fisa)
  - President Biden signed the Reforming Intelligence and Securing America Act, reauthorizing Section 702 of the Foreign Intelligence Surveillance Act (FISA).
  - The act allows for warrantless surveillance and was passed with a 60-34 bipartisan vote in the Senate.
@@ -165,6 +170,11 @@ Title: Freedom Tech Wrap - Episode 16
  - Allows users to store and retrieve binary data without naming conventions, providing flexibility and security.
  - Identity systems enable ownership of files, enabling better organization and management of data.
  - Blossom Drive is a Nostr application utilizing Blossom servers, allowing users to create and manage folders of blobs.
+- nos2x v2.3.0: NIP49 Support [Github](https://github.com/fiatjaf/nos2x)
+ - New version of nos2x released, adding NIP49 event deletion support.
+ - nos2x is a signer extension for securely signing Nostr events without sharing private keys.
+ - Update includes a button directing users to the options page upon installation.
+ - A link to nosta.me has also been added for easy profile setup.
 
 ##Privacy and Security
 - UmbrelOS v1.1.0: Terminal, Beta Program, UX Improvements & Bug Fixes [Github](https://github.com/getumbrel/umbrel/releases/tag/1.1.0)
