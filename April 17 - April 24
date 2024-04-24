@@ -68,10 +68,17 @@ Title: Freedom Tech Wrap - Episode 16
   - Historical Context: The author provides an overview of previous halvings and their impact on the Bitcoin ecosystem, including the percentage of total coins issued during each epoch.
   - Fourth Halving Observations: The article mentions notable events surrounding the fourth halving, such as El Salvador adopting Bitcoin as legal tender, Wall Street's interest in Bitcoin through ETFs, the implementation of Taproot, and the emergence of Ordinals.
   - Reflections on the Changing Culture of Bitcoin: As Bitcoin becomes more mainstream and diverse, the article emphasizes the importance of embracing different perspectives and backgrounds within the Bitcoin community. It welcomes various groups, such as Salvadorans, institutional investors, NFT enthusiasts, and those focused on environmental sustainability, to join the Bitcoin movement.
+- Open Source Justice Manifesto [Stacker News Post](https://stacker.news/items/516897)
+ - The Open Source Justice Foundation aims to promote global access to justice using open-source protocols and technology.
+ - Conventional ADR and ODR tools face limitations due to proprietary software licenses, preventing widespread adoption.
+ - Open Source Justice leverages the principles of the Free and Open-Source Software (FOSS) movement to create more accessible and transparent dispute resolution systems.
+ - Freedom 0, 1, 2, and 3 in FOSS align with the goals of promoting individual and community autonomy in defining and providing justice.
+ - Developers, lawyers, entrepreneurs, and other stakeholders are encouraged to contribute to building and supporting open-source ADR and ODR systems.
 
 
 ### Software Releases & Project Updates
 
+##Bitcoin 
 - Bitcoin Core v27.0: BIP324 v2 Transport On by Default, New mempool.dat Format & More [Github](https://github.com/bitcoin/bitcoin/releases/tag/v27.0)
  - Bitcoin Core v27.0 introduces several new features, including support for BIP324 v2 transport, improved mempool.dat compatibility, and enhanced P2P networking capabilities.
  - The update also brings changes to the wallet, such as the introduction of the CoinGrinder coin selection algorithm and updates to the branch and bound algorithm.
@@ -96,21 +103,6 @@ Title: Freedom Tech Wrap - Episode 16
  - Improved Fedimint Integration: The latest release focuses on optimizing the wallet's performance within the Fedimint ecosystem, despite current fee and scaling challenges.
  - Enhanced Node Functionality: Version 0.6.5 includes various improvements such as tests for new Nostr features, removal of unused WASM functions, and updating the bitcoin price fetching mechanism.
  - Bug Fixes and Optimizations: Additional changes include safer handling of invalid NWC events, improved setup for new profiles, and log generation during certain actions like pruning monitors or changing Hermes addresses.
-- UmbrelOS v1.1.0: Terminal, Beta Program, UX Improvements & Bug Fixes [Github](https://github.com/getumbrel/umbrel/releases/tag/1.1.0)
- - Introduction of Terminal Access: UmbrelOS v1.1.0 introduces terminal capabilities, allowing users to execute custom commands either within the operating system or specific applications through advanced settings.
- - Launch of Beta Program: A beta program has been introduced, enabling users to enroll and receive early access to upcoming features while offering valuable feedback to improve these additions.
- - App Management Enhancements: Updates allow users to start, stop, and troubleshoot apps more efficiently via their respective right-click menus on the home screen. Additionally, the display of app update progress within each application's icon simplifies monitoring ongoing updates.
- - General Bug Fixes and Improvements: This release also incorporates various bug fixes and general enhancements aimed at improving overall usability and stability.
-- RaspiBlitz v1.11.0: Enabling NVMe PCIe Hats, New Documentation & More [Github](https://github.com/raspiblitz/raspiblitz/releases/tag/v1.11.0)
- - Support for NVMe PCIe Hats: RaspiBlitz v1.11.0 enables compatibility with Raspberry Pi 4 and 5 devices equipped with NVMe PCIe drives, providing faster storage performance.
- - New Documentation: The latest version includes updated documentation covering various aspects such as BTCPay Server PostgreSQL database backups, resetting self-signed TLS certificates, and using the Electrum Connect screen on the web interface.
- - Software Updates: Version 1.11.0 features several software updates including Bitcoin Core 26.0, LND 0.17.3, Core Lightning 24.02.1, and LNbits 0.11.3.
- - Deprecations and Removals: Some components have been deprecated or removed due to lack of maintenance or developer consensus, such as Homer Dashboard, Bitcoinminds, and ItchySats.
-- Unleashed.Chat v0.1.20: Nostr Feed Queries [Announcement](https://njump.me/nevent1qqsg6mfspelz7ravdapuk9fp5mccn8gv64yu9ujkd07qy5spwa2h7ycpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgq3q7304velluajf6lylvjynpj2f3ndg396w063gj2gef5qk0nwtcyjq86z3c0)
- - Introduction of Nostr Feed Query Functionality: Users can now ask "What's happening on my feed today?" to receive information about recent posts made by individuals they are following on Nostr.
- - Enhanced Privacy Features: To utilize the Nostr feed query feature, users must enable Nostr login within their account settings.
- - Improved User Experience: When initiating a new chat session in Nostr mode, prompts suggesting relevant images are provided to enhance conversation quality. Additionally, AI-generated code blocks now include a button that allows users to easily copy the content to their clipboards.
- - Continued Development: This release marks another step towards improving the overall functionality and usability of Unleashed Chat, ensuring it remains at the forefront of AI-powered communication platforms.
 - BlueWallet v6.6.2: UI Improvements & Bug Fixes [Github](https://github.com/BlueWallet/BlueWallet/releases)
  - Animation Addition: BlueWallet v6.6.2 introduces a slide-up animation for the float button, enhancing the app's visual appeal and interactivity.
  - UI Improvements: Several issues related to the appearance and functionality of different screens within the application have been addressed, resulting in a more polished and consistent user experience.
@@ -121,11 +113,6 @@ Title: Freedom Tech Wrap - Episode 16
  - Support for Multiple Mediums: The latest version enables users to choose from various mediums when signing transactions, allowing them to select the most convenient method based on their preferences and circumstances.
  - Hiding and Deletion Options: Users now have the ability to hide or delete specific wallets or vaults as needed, giving them greater control over their digital assets management process.
  - General Improvements and Bug Fixes: In addition to these key features, the update incorporates several bug fixes and performance enhancements aimed at optimizing the overall user experience.
-- tbDEX v1.0: Open Source Liquidity and Trust Protocol
- - Introduction of tbDEX v1.0: This release marks the debut of tbDEX, an open-source liquidity and trust protocol designed to facilitate seamless connections between liquidity seekers and providers while ensuring security through the utilization of decentralized technologies like DIDs and VCs.
- - Permissionless Network: As an open-source platform, tbDEX encourages widespread adoption and development without requiring approval from central authorities.
- - Key Features for Financial Institutions: tbDEX offers tools that allow institutions to specify their supported currency pairs, payment methods, and required customer credentials. Additionally, they can receive real-time quotes, initiate exchanges, and monitor order statuses.
- - Functionality for Wallets: Wallet applications can leverage tbDEX to obtain service offerings from financial institutions, initiate exchanges, present verifiable credentials, receive real-time quotes, manage orders, and cancel transactions as necessary. For issuers, tbDEX provides capabilities to create DIDs, issue verifiable credentials, and verify credential authenticity.
 - Cashu Nutshell v0.15.3: Improved Mint Crash Resistance
  - Enhanced Mint Crash Resistance: The latest version of Cashu Nutshell introduces improvements to handle crashes during outgoing Lightning payments, automatically picking up affected transactions and invalidating any related proofs.
  - Support for Checking Pending Invoices: Users can now utilize the "cashu invoices" command to review outstanding invoices within the application.
@@ -146,11 +133,6 @@ Title: Freedom Tech Wrap - Episode 16
  - Developed by Blockstream, LWK aims to address common pain points in existing Liquid wallet development tools.
  - Key features include support for lightweight backends like Electrum and Esplora, compatibility with various script types, and bindings for popular programming languages.
  - Currently in its pre-1.0 stage, LWK encourages developer contributions and feedback through GitHub and Telegram channels.
-- NDK v2.8: 'Fast and Steady' [Github](https://github.com/nostr-dev-kit/ndk)
- - NDK v2.8 focuses on improving performance, adding threading capabilities, and enhancing the overall experience of building Nostr-related applications.
- - Optimistic Signature Verification enables faster event processing by assuming events are valid and pushing them to a queue.
- - Threaded Signature Verification allows signature verification to be performed on separate threads, reducing load on the main thread.
- - Dexie Cache Adapter improvements enhance memory management and simplify thread rendering processes.
 - Blockstream Green Desktop v2.0.4: BIP39 Passphrase Login & More [Github](https://github.com/Blockstream/green_qt/releases/tag/release_2.0.4)
  - Blockstream Green Desktop v2.0.4 adds BIP39 passphrase login, supports external BIP21 payments, and enables message signing with software wallets.
  - The update includes changes to Qt and GDK libraries and fixes issues related to QR codes, fees, and Liquid transactions with Ledger Nano S.
@@ -166,6 +148,13 @@ Title: Freedom Tech Wrap - Episode 16
  - A beta version, v0.8.4-beta2, is also available for testing purposes, featuring currency conversions, UI enhancements, and bug fixes.
  - To become a community sponsor, interested individuals can visit the project's sponsor board.
  - Sponsors receive benefits like having their profiles displayed on the Zeus website and within the app.
+
+##Nostr 
+- NDK v2.8: 'Fast and Steady' [Github](https://github.com/nostr-dev-kit/ndk)
+ - NDK v2.8 focuses on improving performance, adding threading capabilities, and enhancing the overall experience of building Nostr-related applications.
+ - Optimistic Signature Verification enables faster event processing by assuming events are valid and pushing them to a queue.
+ - Threaded Signature Verification allows signature verification to be performed on separate threads, reducing load on the main thread.
+ - Dexie Cache Adapter improvements enhance memory management and simplify thread rendering processes.
 - Gossip v0.10.0: Nostr Connect Signer, Whitelist Support for Relays, SpamSafe [Github](https://github.com/mikedilger/gossip/releases/tag/v0.10.0)
  - Nostr Connect Signer: Gossip now serves as a private key vault using NIP-46.
  - Whitelist support for relays: Optional feature allows users to control relay connections for enhanced privacy.
@@ -176,6 +165,39 @@ Title: Freedom Tech Wrap - Episode 16
  - Allows users to store and retrieve binary data without naming conventions, providing flexibility and security.
  - Identity systems enable ownership of files, enabling better organization and management of data.
  - Blossom Drive is a Nostr application utilizing Blossom servers, allowing users to create and manage folders of blobs.
+
+##Privacy and Security
+- UmbrelOS v1.1.0: Terminal, Beta Program, UX Improvements & Bug Fixes [Github](https://github.com/getumbrel/umbrel/releases/tag/1.1.0)
+ - Introduction of Terminal Access: UmbrelOS v1.1.0 introduces terminal capabilities, allowing users to execute custom commands either within the operating system or specific applications through advanced settings.
+ - Launch of Beta Program: A beta program has been introduced, enabling users to enroll and receive early access to upcoming features while offering valuable feedback to improve these additions.
+ - App Management Enhancements: Updates allow users to start, stop, and troubleshoot apps more efficiently via their respective right-click menus on the home screen. Additionally, the display of app update progress within each application's icon simplifies monitoring ongoing updates.
+ - General Bug Fixes and Improvements: This release also incorporates various bug fixes and general enhancements aimed at improving overall usability and stability.
+- RaspiBlitz v1.11.0: Enabling NVMe PCIe Hats, New Documentation & More [Github](https://github.com/raspiblitz/raspiblitz/releases/tag/v1.11.0)
+ - Support for NVMe PCIe Hats: RaspiBlitz v1.11.0 enables compatibility with Raspberry Pi 4 and 5 devices equipped with NVMe PCIe drives, providing faster storage performance.
+ - New Documentation: The latest version includes updated documentation covering various aspects such as BTCPay Server PostgreSQL database backups, resetting self-signed TLS certificates, and using the Electrum Connect screen on the web interface.
+ - Software Updates: Version 1.11.0 features several software updates including Bitcoin Core 26.0, LND 0.17.3, Core Lightning 24.02.1, and LNbits 0.11.3.
+ - Deprecations and Removals: Some components have been deprecated or removed due to lack of maintenance or developer consensus, such as Homer Dashboard, Bitcoinminds, and ItchySats.
+- tbDEX v1.0: Open Source Liquidity and Trust Protocol
+ - Introduction of tbDEX v1.0: This release marks the debut of tbDEX, an open-source liquidity and trust protocol designed to facilitate seamless connections between liquidity seekers and providers while ensuring security through the utilization of decentralized technologies like DIDs and VCs.
+ - Permissionless Network: As an open-source platform, tbDEX encourages widespread adoption and development without requiring approval from central authorities.
+ - Key Features for Financial Institutions: tbDEX offers tools that allow institutions to specify their supported currency pairs, payment methods, and required customer credentials. Additionally, they can receive real-time quotes, initiate exchanges, and monitor order statuses.
+ - Functionality for Wallets: Wallet applications can leverage tbDEX to obtain service offerings from financial institutions, initiate exchanges, present verifiable credentials, receive real-time quotes, manage orders, and cancel transactions as necessary. For issuers, tbDEX provides capabilities to create DIDs, issue verifiable credentials, and verify credential authenticity.
+
+##AI
+- Unleashed.Chat v0.1.20: Nostr Feed Queries [Announcement](https://njump.me/nevent1qqsg6mfspelz7ravdapuk9fp5mccn8gv64yu9ujkd07qy5spwa2h7ycpzemhxue69uhhyetvv9ujuurjd9kkzmpwdejhgq3q7304velluajf6lylvjynpj2f3ndg396w063gj2gef5qk0nwtcyjq86z3c0)
+ - Introduction of Nostr Feed Query Functionality: Users can now ask "What's happening on my feed today?" to receive information about recent posts made by individuals they are following on Nostr.
+ - Enhanced Privacy Features: To utilize the Nostr feed query feature, users must enable Nostr login within their account settings.
+ - Improved User Experience: When initiating a new chat session in Nostr mode, prompts suggesting relevant images are provided to enhance conversation quality. Additionally, AI-generated code blocks now include a button that allows users to easily copy the content to their clipboards.
+ - Continued Development: This release marks another step towards improving the overall functionality and usability of Unleashed Chat, ensuring it remains at the forefront of AI-powered communication platforms.
+- PPQ.AI [Twitter Announcement](twitter.com/MattAhlborg/status/1783135454159638887)
+ - DALL-E AI Image generation is now available
+- Meta Llama 3 [Github](https://github.com/meta-llama/llama3)
+ - Meta introduces Llama 3, an open-source large language model (LLM) with state-of-the-art performance.
+ - Pretrained and fine-tuned versions of Llama 3 are available with 8 billion and 70 billion parameters.
+ - Llama 3 aims to be the best open source model, addressing developer feedback and promoting responsible use.
+ - New capabilities include improved reasoning, code generation, and instruction following.
+ - Llama 3 will become multilingual and multimodal in the future, with longer context and better overall performance.
+ - Human evaluation sets were created to test performance in real-world scenarios, showing superiority compared to other LLMs.
 
 
 ### Outro 
@@ -188,11 +210,18 @@ Title: Freedom Tech Wrap - Episode 16
 ### Song of the Week
 - To close it out, we have the song of the week, where your sats directly support that artist, so stick around and boost.
 - For the rest of you, thanks for listening to Freedom Tech Wrap, and remember to live independent. Later. 
-- This week I've brought you a hard hitting dreamy rock anthem. This is bellweather with far enough.
+- This week I bring you No Words by Arson Car
 
 ______________________________________________________________________________________________________________________________________________________
 5 News Items 
-21 Software updates 
+22 Software updates
+2 Articles 
+2 Events 
+1 Grant 
+
+Let me know if 30+ items are too much for a 30min pod. I can reduce the list to the most important 15 items. 
+
+Privacy and
 
 
 
