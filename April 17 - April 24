@@ -13,17 +13,30 @@ Title: Freedom Tech Wrap - Episode 16
 
 ### Boosts
 - Thanks to everyone who streamed sats, and shoutout to our top booster:
-  - [🏆 TOP BOOSTER] @shaundunn206 (5,000 sats) "salute emoji"
-  - @luckymofo (1,080 sats) "Thanks for the show, Marks. What's the name of the rock tune you always play at the end?"
-  - @joelw (333) 
-  - @thewildhustle (200)
-  
+  - [🏆 TOP BOOSTER] 
+ 
 
 ### News
-- Biden Signs Reauthorization of Expanded FISA 702 Warrantless Surveillance Program After It Passes Senate
-- Craig Wright Discontinues Tulip Trading Case in Major Win for Bitcoin Developers
-- US Government Rejects Calls To End Assange Case, Submits 'Non-Assurances' For Extradition
-- Braiins Pool Lightning Payouts Now Available to All Users
+- Biden Signs Reauthorization of Expanded FISA 702 Warrantless Surveillance Program After It Passes Senate [NPR Article](https://www.npr.org/2024/04/20/1246076114/senate-passes-reauthorization-surveillance-program-fisa)
+ - President Biden signed the Reforming Intelligence and Securing America Act, reauthorizing Section 702 of the Foreign Intelligence Surveillance Act (FISA).
+ - The act allows for warrantless surveillance and was passed with a 60-34 bipartisan vote in the Senate.
+ - Critics argue that it expands government surveillance powers and poses risks to privacy rights.
+ - No meaningful reforms were made during the reauthorization process.
+- Craig Wright Discontinues Tulip Trading Case in Major Win for Bitcoin Developers [BitcoinDefense.org Announcement](https://bitcoindefense.org/craig-wright-discontinues-tulip-trading-case-in-major-win-for-bitcoin-developers/)
+ - Craig Wright discontinued a lawsuit against 12 Bitcoin developers and others in the UK High Court.
+ - This marks the end of Wright's decade-long strategy of intimidating and harassing Bitcoin developers.
+ - The outcome would have had significant consequences for open source software and developer liability.
+ - The decision comes after a recent UK court ruling confirmed that Craig Wright is not Satoshi Nakamoto.
+- US Government Rejects Calls To End Assange Case, Submits 'Non-Assurances' For Extradition [The Dissenter Blog Post](https://thedissenter.org/us-government-rejects-australias-call-to-end-assange-case/)
+ - Non-Assurances Provided Regarding First Amendment Rights: Despite claims from Assange's legal team that he should be able to raise the First Amendment defense if extradited, the U.S. government has submitted "non-assurances" regarding the application of the First Amendment to Assange's situation.
+ - Focus on Death Penalty Concerns: Instead of addressing the First Amendment concerns directly, the U.S. government has chosen to focus on potential death penalties associated with Assange's extradition.
+ - Legal Team Arguments: Assange's legal team argues that the First Amendment applies to him due to his status as a journalist and publisher. They claim that the U.S. government's refusal to provide assurances means that Assange cannot invoke the First Amendment.
+ - Potential Hearing Date: A hearing on the matter is scheduled for May 20.
+- Braiins Pool Lightning Payouts Now Available to All Users [Brains Blog Post](https://pool.braiins.com/en/news/introducing-lightning-payouts)
+ - Introduction of Instant Daily Lightning Payments: Braiins Pool has introduced Lightning payouts for all its miners, allowing them to receive their earnings instantly without any minimum requirements or fees.
+ - Easy Setup Process: To access these payouts, users simply need to enter their Lightning addresses in a designated financial account and establish a payout rule. This streamlined process ensures that miners can quickly and efficiently collect their rewards.
+ - Timely Launch: The introduction of Lightning payouts coincides with the upcoming Bitcoin halving event, providing miners with additional incentives and opportunities to optimize their profits.
+ - Comparison to Other Services: It is worth noting that similar Lightning-based payment solutions have recently been implemented by other mining platforms such as NiceHash and Titan Mining.
 - El Salvador's Chivo Wallet Source Code & VPN Access Leaked [TFTC Blogpost](https://www.tftc.io/el-salvador-chivo-wallet-hack-source-code-leak/)
  - Hackers from CiberInteligenciaSV leaked parts of El Salvador's Chivo wallet's source code and VPN access details.
  - The group claims they released the information to retaliate against the Salvadoran government for not engaging with them.
@@ -49,8 +62,7 @@ Title: Freedom Tech Wrap - Episode 16
  - Partnership with bTrust Builders includes organizing a hackathon, workshops, and scholarships for young African developers.
  
 
-
-### Articles 
+### Article 
  - THE HALVING ISSUE: LETTER FROM THE EDITORS [Bitcoin Magazine Article](https://bitcoinmagazine.com/print/the-halving-issue-letter-from-the-editors)
   - Introduction to the Halving Issue: This article highlights the significance of the halving event in the Bitcoin network, which occurs approximately every four years and reduces the supply issuance in half.
   - Historical Context: The author provides an overview of previous halvings and their impact on the Bitcoin ecosystem, including the percentage of total coins issued during each epoch.
@@ -60,7 +72,6 @@ Title: Freedom Tech Wrap - Episode 16
 
 ### Software Releases & Project Updates
 
-  ## Bitcoin 
 - Bitcoin Core v27.0: BIP324 v2 Transport On by Default, New mempool.dat Format & More [Github](https://github.com/bitcoin/bitcoin/releases/tag/v27.0)
  - Bitcoin Core v27.0 introduces several new features, including support for BIP324 v2 transport, improved mempool.dat compatibility, and enhanced P2P networking capabilities.
  - The update also brings changes to the wallet, such as the introduction of the CoinGrinder coin selection algorithm and updates to the branch and bound algorithm.
@@ -159,8 +170,6 @@ Title: Freedom Tech Wrap - Episode 16
  - A beta version, v0.8.4-beta2, is also available for testing purposes, featuring currency conversions, UI enhancements, and bug fixes.
  - To become a community sponsor, interested individuals can visit the project's sponsor board.
  - Sponsors receive benefits like having their profiles displayed on the Zeus website and within the app.
-  
-  ## Nostr
 - Gossip v0.10.0: Nostr Connect Signer, Whitelist Support for Relays, SpamSafe [Github](https://github.com/mikedilger/gossip/releases/tag/v0.10.0)
  - Nostr Connect Signer: Gossip now serves as a private key vault using NIP-46.
  - Whitelist support for relays: Optional feature allows users to control relay connections for enhanced privacy.
@@ -171,17 +180,6 @@ Title: Freedom Tech Wrap - Episode 16
  - Allows users to store and retrieve binary data without naming conventions, providing flexibility and security.
  - Identity systems enable ownership of files, enabling better organization and management of data.
  - Blossom Drive is a Nostr application utilizing Blossom servers, allowing users to create and manage folders of blobs.
-
- 
-
-  
-  ## Privacy & Security 
-
-
-  
-  ## AI
-
-
 
 
 ### Outro 
